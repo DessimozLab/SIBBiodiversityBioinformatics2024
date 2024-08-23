@@ -1,0 +1,2668 @@
+<?xml version='1.0' encoding='utf-8'?>
+<orthoXML xmlns="http://orthoXML.org/2011/" origin="FastOMA 0.3.4+dev" originVersion="2024-08-23 00:54:57" version="0.5">
+  <species name="Neosartorya_fumigata" taxonId="7" NCBITaxId="0">
+    <database name="database" version="2023">
+      <genes>
+        <gene id="1000000001" protId="tr|A4D9Q4|A4D9Q4_ASPFU" />
+        <gene id="1000000002" protId="tr|A4D9V6|A4D9V6_ASPFU" />
+        <gene id="1000000003" protId="tr|A4DA02|A4DA02_ASPFU" />
+        <gene id="1000000004" protId="tr|A4DA49|A4DA49_ASPFU" />
+        <gene id="1000000005" protId="tr|E9RBN4|E9RBN4_ASPFU" />
+        <gene id="1000000006" protId="tr|Q4W9N9|Q4W9N9_ASPFU" />
+        <gene id="1000000007" protId="tr|Q4WA05|Q4WA05_ASPFU" />
+        <gene id="1000000008" protId="tr|Q4WAR4|Q4WAR4_ASPFU" />
+        <gene id="1000000009" protId="tr|Q4WAV4|Q4WAV4_ASPFU" />
+        <gene id="1000000010" protId="tr|Q4WCA8|Q4WCA8_ASPFU" />
+        <gene id="1000000011" protId="tr|Q4WD17|Q4WD17_ASPFU" />
+        <gene id="1000000012" protId="tr|Q4WD28|Q4WD28_ASPFU" />
+        <gene id="1000000013" protId="tr|Q4WD55|Q4WD55_ASPFU" />
+        <gene id="1000000014" protId="tr|Q4WDB5|Q4WDB5_ASPFU" />
+        <gene id="1000000015" protId="tr|Q4WDN8|Q4WDN8_ASPFU" />
+        <gene id="1000000016" protId="tr|Q4WDV0|Q4WDV0_ASPFU" />
+        <gene id="1000000017" protId="tr|Q4WDX6|Q4WDX6_ASPFU" />
+        <gene id="1000000018" protId="sp|Q4WDZ0|SYM1_ASPFU" />
+        <gene id="1000000019" protId="tr|Q4WE64|Q4WE64_ASPFU" />
+        <gene id="1000000020" protId="tr|Q4WE82|Q4WE82_ASPFU" />
+        <gene id="1000000021" protId="tr|Q4WEC1|Q4WEC1_ASPFU" />
+        <gene id="1000000022" protId="tr|Q4WEN9|Q4WEN9_ASPFU" />
+        <gene id="1000000023" protId="tr|Q4WER4|Q4WER4_ASPFU" />
+        <gene id="1000000024" protId="tr|Q4WF40|Q4WF40_ASPFU" />
+        <gene id="1000000025" protId="sp|Q4WF55|SIDF_ASPFU" />
+        <gene id="1000000026" protId="tr|Q4WF78|Q4WF78_ASPFU" />
+        <gene id="1000000027" protId="tr|Q4WFI7|Q4WFI7_ASPFU" />
+        <gene id="1000000028" protId="tr|Q4WFW7|Q4WFW7_ASPFU" />
+        <gene id="1000000029" protId="tr|Q4WGB6|Q4WGB6_ASPFU" />
+        <gene id="1000000030" protId="tr|Q4WGC9|Q4WGC9_ASPFU" />
+        <gene id="1000000031" protId="tr|Q4WGY2|Q4WGY2_ASPFU" />
+        <gene id="1000000032" protId="tr|Q4WH39|Q4WH39_ASPFU" />
+        <gene id="1000000033" protId="tr|Q4WH87|Q4WH87_ASPFU" />
+        <gene id="1000000034" protId="tr|Q4WHJ6|Q4WHJ6_ASPFU" />
+        <gene id="1000000035" protId="sp|Q4WHP5|HSE1_ASPFU" />
+        <gene id="1000000036" protId="tr|Q4WI44|Q4WI44_ASPFU" />
+        <gene id="1000000037" protId="tr|Q4WI62|Q4WI62_ASPFU" />
+        <gene id="1000000038" protId="sp|Q4WI89|ATRR_ASPFU" />
+        <gene id="1000000039" protId="tr|Q4WIP5|Q4WIP5_ASPFU" />
+        <gene id="1000000040" protId="tr|Q4WIZ1|Q4WIZ1_ASPFU" />
+        <gene id="1000000041" protId="tr|Q4WJ78|Q4WJ78_ASPFU" />
+        <gene id="1000000042" protId="tr|Q4WJI0|Q4WJI0_ASPFU" />
+        <gene id="1000000043" protId="tr|Q4WJP1|Q4WJP1_ASPFU" />
+        <gene id="1000000044" protId="tr|Q4WKA9|Q4WKA9_ASPFU" />
+        <gene id="1000000045" protId="tr|Q4WKY3|Q4WKY3_ASPFU" />
+        <gene id="1000000046" protId="tr|Q4WKZ7|Q4WKZ7_ASPFU" />
+        <gene id="1000000047" protId="tr|Q4WL69|Q4WL69_ASPFU" />
+        <gene id="1000000048" protId="sp|Q4WLA7|UBC2_ASPFU" />
+        <gene id="1000000049" protId="tr|Q4WLG2|Q4WLG2_ASPFU" />
+        <gene id="1000000050" protId="tr|Q4WLX9|Q4WLX9_ASPFU" />
+        <gene id="1000000051" protId="tr|Q4WM70|Q4WM70_ASPFU" />
+        <gene id="1000000052" protId="tr|Q4WM88|Q4WM88_ASPFU" />
+        <gene id="1000000053" protId="tr|Q4WMA5|Q4WMA5_ASPFU" />
+        <gene id="1000000054" protId="tr|Q4WMP3|Q4WMP3_ASPFU" />
+        <gene id="1000000055" protId="tr|Q4WMP9|Q4WMP9_ASPFU" />
+        <gene id="1000000056" protId="sp|Q4WND5|SRCA_ASPFU" />
+        <gene id="1000000057" protId="tr|Q4WNF9|Q4WNF9_ASPFU" />
+        <gene id="1000000058" protId="sp|Q4WNQ6|MED5_ASPFU" />
+        <gene id="1000000059" protId="tr|Q4WP05|Q4WP05_ASPFU" />
+        <gene id="1000000060" protId="tr|Q4WPC1|Q4WPC1_ASPFU" />
+        <gene id="1000000061" protId="tr|Q4WPW1|Q4WPW1_ASPFU" />
+        <gene id="1000000062" protId="tr|Q4WPY3|Q4WPY3_ASPFU" />
+        <gene id="1000000063" protId="tr|Q4WQ32|Q4WQ32_ASPFU" />
+        <gene id="1000000064" protId="tr|Q4WQJ9|Q4WQJ9_ASPFU" />
+        <gene id="1000000065" protId="tr|Q4WQM5|Q4WQM5_ASPFU" />
+        <gene id="1000000066" protId="tr|Q4WQV3|Q4WQV3_ASPFU" />
+        <gene id="1000000067" protId="tr|Q4WRE7|Q4WRE7_ASPFU" />
+        <gene id="1000000068" protId="tr|Q4WSV7|Q4WSV7_ASPFU" />
+        <gene id="1000000069" protId="sp|Q4WTB3|ABFC_ASPFU" />
+        <gene id="1000000070" protId="tr|Q4WTX4|Q4WTX4_ASPFU" />
+        <gene id="1000000071" protId="tr|Q4WU10|Q4WU10_ASPFU" />
+        <gene id="1000000072" protId="tr|Q4WUB6|Q4WUB6_ASPFU" />
+        <gene id="1000000073" protId="tr|Q4WUD0|Q4WUD0_ASPFU" />
+        <gene id="1000000074" protId="tr|Q4WUE1|Q4WUE1_ASPFU" />
+        <gene id="1000000075" protId="tr|Q4WVA9|Q4WVA9_ASPFU" />
+        <gene id="1000000076" protId="tr|Q4WVQ3|Q4WVQ3_ASPFU" />
+        <gene id="1000000077" protId="tr|Q4WWD1|Q4WWD1_ASPFU" />
+        <gene id="1000000078" protId="tr|Q4WWN1|Q4WWN1_ASPFU" />
+        <gene id="1000000079" protId="tr|Q4WX06|Q4WX06_ASPFU" />
+        <gene id="1000000080" protId="tr|Q4WX72|Q4WX72_ASPFU" />
+        <gene id="1000000081" protId="tr|Q4WXM6|Q4WXM6_ASPFU" />
+        <gene id="1000000082" protId="sp|Q4WXV6|BBP_ASPFU" />
+        <gene id="1000000083" protId="tr|Q4WXW3|Q4WXW3_ASPFU" />
+        <gene id="1000000084" protId="tr|Q4WYN2|Q4WYN2_ASPFU" />
+        <gene id="1000000085" protId="tr|Q4WYU5|Q4WYU5_ASPFU" />
+        <gene id="1000000086" protId="sp|Q4WZ64|EASN_ASPFU" />
+        <gene id="1000000087" protId="tr|Q4WZA4|Q4WZA4_ASPFU" />
+        <gene id="1000000088" protId="tr|Q4WZH6|Q4WZH6_ASPFU" />
+        <gene id="1000000089" protId="tr|Q4WZR6|Q4WZR6_ASPFU" />
+        <gene id="1000000090" protId="tr|Q4WZV4|Q4WZV4_ASPFU" />
+        <gene id="1000000091" protId="tr|Q4WZZ7|Q4WZZ7_ASPFU" />
+        <gene id="1000000092" protId="tr|Q4X034|Q4X034_ASPFU" />
+        <gene id="1000000093" protId="tr|Q4X083|Q4X083_ASPFU" />
+        <gene id="1000000094" protId="tr|Q4X0J7|Q4X0J7_ASPFU" />
+        <gene id="1000000095" protId="tr|Q4X0R8|Q4X0R8_ASPFU" />
+        <gene id="1000000096" protId="tr|Q4X0U8|Q4X0U8_ASPFU" />
+        <gene id="1000000097" protId="tr|Q4X1A2|Q4X1A2_ASPFU" />
+        <gene id="1000000098" protId="tr|Q4X1E0|Q4X1E0_ASPFU" />
+        <gene id="1000000099" protId="tr|Q4X1L7|Q4X1L7_ASPFU" />
+        <gene id="1000000100" protId="tr|Q4X273|Q4X273_ASPFU" />
+        <gene id="1000000101" protId="tr|A4D9C1|A4D9C1_ASPFU" />
+        <gene id="1000000102" protId="tr|A4D9U2|A4D9U2_ASPFU" />
+        <gene id="1000000103" protId="tr|A4D9Z9|A4D9Z9_ASPFU" />
+        <gene id="1000000104" protId="tr|E9R5J6|E9R5J6_ASPFU" />
+        <gene id="1000000105" protId="tr|E9R5T0|E9R5T0_ASPFU" />
+        <gene id="1000000106" protId="sp|O13410|PYRF_ASPFU" />
+        <gene id="1000000107" protId="sp|P0C954|GEL2_ASPFU" />
+        <gene id="1000000108" protId="sp|P0C956|GEL4_ASPFU" />
+        <gene id="1000000109" protId="tr|Q4W936|Q4W936_ASPFU" />
+        <gene id="1000000110" protId="tr|Q4W9H8|Q4W9H8_ASPFU" />
+        <gene id="1000000111" protId="tr|Q4WB59|Q4WB59_ASPFU" />
+        <gene id="1000000112" protId="tr|Q4WBP1|Q4WBP1_ASPFU" />
+        <gene id="1000000113" protId="tr|Q4WBY6|Q4WBY6_ASPFU" />
+        <gene id="1000000114" protId="tr|Q4WC56|Q4WC56_ASPFU" />
+        <gene id="1000000115" protId="tr|Q4WC91|Q4WC91_ASPFU" />
+        <gene id="1000000116" protId="tr|Q4WCH1|Q4WCH1_ASPFU" />
+        <gene id="1000000117" protId="tr|Q4WCL4|Q4WCL4_ASPFU" />
+        <gene id="1000000118" protId="tr|Q4WCT8|Q4WCT8_ASPFU" />
+        <gene id="1000000119" protId="tr|Q4WCW6|Q4WCW6_ASPFU" />
+        <gene id="1000000120" protId="tr|Q4WCX5|Q4WCX5_ASPFU" />
+        <gene id="1000000121" protId="tr|Q4WD71|Q4WD71_ASPFU" />
+        <gene id="1000000122" protId="sp|Q4WDD0|CWC21_ASPFU" />
+        <gene id="1000000123" protId="tr|Q4WDK0|Q4WDK0_ASPFU" />
+        <gene id="1000000124" protId="tr|Q4WDU8|Q4WDU8_ASPFU" />
+        <gene id="1000000125" protId="tr|Q4WEE5|Q4WEE5_ASPFU" />
+        <gene id="1000000126" protId="tr|Q4WEJ8|Q4WEJ8_ASPFU" />
+        <gene id="1000000127" protId="sp|Q4WEY8|HACA_ASPFU" />
+        <gene id="1000000128" protId="tr|Q4WEZ6|Q4WEZ6_ASPFU" />
+        <gene id="1000000129" protId="tr|Q4WFK7|Q4WFK7_ASPFU" />
+        <gene id="1000000130" protId="tr|Q4WG85|Q4WG85_ASPFU" />
+        <gene id="1000000131" protId="tr|Q4WGF0|Q4WGF0_ASPFU" />
+        <gene id="1000000132" protId="tr|Q4WH43|Q4WH43_ASPFU" />
+        <gene id="1000000133" protId="tr|Q4WHY7|Q4WHY7_ASPFU" />
+        <gene id="1000000134" protId="tr|Q4WI85|Q4WI85_ASPFU" />
+        <gene id="1000000135" protId="tr|Q4WIF7|Q4WIF7_ASPFU" />
+        <gene id="1000000136" protId="tr|Q4WIG2|Q4WIG2_ASPFU" />
+        <gene id="1000000137" protId="tr|Q4WIN2|Q4WIN2_ASPFU" />
+        <gene id="1000000138" protId="tr|Q4WJB4|Q4WJB4_ASPFU" />
+        <gene id="1000000139" protId="tr|Q4WJC3|Q4WJC3_ASPFU" />
+        <gene id="1000000140" protId="tr|Q4WJE3|Q4WJE3_ASPFU" />
+        <gene id="1000000141" protId="tr|Q4WJF6|Q4WJF6_ASPFU" />
+        <gene id="1000000142" protId="tr|Q4WJN8|Q4WJN8_ASPFU" />
+        <gene id="1000000143" protId="tr|Q4WKC8|Q4WKC8_ASPFU" />
+        <gene id="1000000144" protId="tr|Q4WKU1|Q4WKU1_ASPFU" />
+        <gene id="1000000145" protId="sp|Q4WKX1|FGNC_ASPFU" />
+        <gene id="1000000146" protId="tr|Q4WL26|Q4WL26_ASPFU" />
+        <gene id="1000000147" protId="tr|Q4WL48|Q4WL48_ASPFU" />
+        <gene id="1000000148" protId="tr|Q4WLC5|Q4WLC5_ASPFU" />
+        <gene id="1000000149" protId="tr|Q4WLP0|Q4WLP0_ASPFU" />
+        <gene id="1000000150" protId="tr|Q4WLX4|Q4WLX4_ASPFU" />
+        <gene id="1000000151" protId="tr|Q4WLX5|Q4WLX5_ASPFU" />
+        <gene id="1000000152" protId="tr|Q4WM05|Q4WM05_ASPFU" />
+        <gene id="1000000153" protId="tr|Q4WM21|Q4WM21_ASPFU" />
+        <gene id="1000000154" protId="tr|Q4WM72|Q4WM72_ASPFU" />
+        <gene id="1000000155" protId="sp|Q4WMA6|CFMB_ASPFU" />
+        <gene id="1000000156" protId="sp|Q4WMH0|AP1_ASPFU" />
+        <gene id="1000000157" protId="tr|Q4WNE9|Q4WNE9_ASPFU" />
+        <gene id="1000000158" protId="tr|Q4WNZ7|Q4WNZ7_ASPFU" />
+        <gene id="1000000159" protId="tr|Q4WP19|Q4WP19_ASPFU" />
+        <gene id="1000000160" protId="tr|Q4WP73|Q4WP73_ASPFU" />
+        <gene id="1000000161" protId="tr|Q4WPD1|Q4WPD1_ASPFU" />
+        <gene id="1000000162" protId="tr|Q4WPI2|Q4WPI2_ASPFU" />
+        <gene id="1000000163" protId="tr|Q4WPN5|Q4WPN5_ASPFU" />
+        <gene id="1000000164" protId="tr|Q4WQH8|Q4WQH8_ASPFU" />
+        <gene id="1000000165" protId="tr|Q4WQI5|Q4WQI5_ASPFU" />
+        <gene id="1000000166" protId="tr|Q4WR68|Q4WR68_ASPFU" />
+        <gene id="1000000167" protId="tr|Q4WRL6|Q4WRL6_ASPFU" />
+        <gene id="1000000168" protId="sp|Q4WRV2|DRS1_ASPFU" />
+        <gene id="1000000169" protId="tr|Q4WS36|Q4WS36_ASPFU" />
+        <gene id="1000000170" protId="tr|Q4WT42|Q4WT42_ASPFU" />
+        <gene id="1000000171" protId="tr|Q4WTQ7|Q4WTQ7_ASPFU" />
+        <gene id="1000000172" protId="sp|Q4WU07|CWC2_ASPFU" />
+        <gene id="1000000173" protId="tr|Q4WU81|Q4WU81_ASPFU" />
+        <gene id="1000000174" protId="tr|Q4WUD6|Q4WUD6_ASPFU" />
+        <gene id="1000000175" protId="tr|Q4WUR9|Q4WUR9_ASPFU" />
+        <gene id="1000000176" protId="tr|Q4WUS3|Q4WUS3_ASPFU" />
+        <gene id="1000000177" protId="tr|Q4WV26|Q4WV26_ASPFU" />
+        <gene id="1000000178" protId="sp|Q4WV38|ERG8_ASPFU" />
+        <gene id="1000000179" protId="tr|Q4WV56|Q4WV56_ASPFU" />
+        <gene id="1000000180" protId="tr|Q4WV65|Q4WV65_ASPFU" />
+        <gene id="1000000181" protId="tr|Q4WV87|Q4WV87_ASPFU" />
+        <gene id="1000000182" protId="tr|Q4WVL2|Q4WVL2_ASPFU" />
+        <gene id="1000000183" protId="tr|Q4WW38|Q4WW38_ASPFU" />
+        <gene id="1000000184" protId="tr|Q4WW41|Q4WW41_ASPFU" />
+        <gene id="1000000185" protId="tr|Q4WW82|Q4WW82_ASPFU" />
+        <gene id="1000000186" protId="tr|Q4WWG9|Q4WWG9_ASPFU" />
+        <gene id="1000000187" protId="tr|Q4WWL2|Q4WWL2_ASPFU" />
+        <gene id="1000000188" protId="tr|Q4WXF4|Q4WXF4_ASPFU" />
+        <gene id="1000000189" protId="tr|Q4WY25|Q4WY25_ASPFU" />
+        <gene id="1000000190" protId="tr|Q4WY95|Q4WY95_ASPFU" />
+        <gene id="1000000191" protId="tr|Q4WYT6|Q4WYT6_ASPFU" />
+        <gene id="1000000192" protId="tr|Q4WYY8|Q4WYY8_ASPFU" />
+        <gene id="1000000193" protId="tr|Q4WZA3|Q4WZA3_ASPFU" />
+        <gene id="1000000194" protId="tr|Q4WZE6|Q4WZE6_ASPFU" />
+        <gene id="1000000195" protId="tr|Q4X003|Q4X003_ASPFU" />
+        <gene id="1000000196" protId="tr|Q4X0A0|Q4X0A0_ASPFU" />
+        <gene id="1000000197" protId="tr|Q4X0P6|Q4X0P6_ASPFU" />
+        <gene id="1000000198" protId="tr|Q4X0P9|Q4X0P9_ASPFU" />
+        <gene id="1000000199" protId="tr|Q4X1C7|Q4X1C7_ASPFU" />
+        <gene id="1000000200" protId="tr|Q4X1N6|Q4X1N6_ASPFU" />
+        <gene id="1000000201" protId="tr|A4D9X4|A4D9X4_ASPFU" />
+        <gene id="1000000202" protId="tr|A4DA54|A4DA54_ASPFU" />
+        <gene id="1000000203" protId="tr|Q4W8X5|Q4W8X5_ASPFU" />
+        <gene id="1000000204" protId="tr|Q4W905|Q4W905_ASPFU" />
+        <gene id="1000000205" protId="tr|Q4W9E8|Q4W9E8_ASPFU" />
+        <gene id="1000000206" protId="tr|Q4W9W3|Q4W9W3_ASPFU" />
+        <gene id="1000000207" protId="tr|Q4WAG7|Q4WAG7_ASPFU" />
+        <gene id="1000000208" protId="tr|Q4WCY7|Q4WCY7_ASPFU" />
+        <gene id="1000000209" protId="tr|Q4WDA0|Q4WDA0_ASPFU" />
+        <gene id="1000000210" protId="tr|Q4WDM9|Q4WDM9_ASPFU" />
+        <gene id="1000000211" protId="tr|Q4WDT9|Q4WDT9_ASPFU" />
+        <gene id="1000000212" protId="tr|Q4WE19|Q4WE19_ASPFU" />
+        <gene id="1000000213" protId="tr|Q4WE97|Q4WE97_ASPFU" />
+        <gene id="1000000214" protId="tr|Q4WEI6|Q4WEI6_ASPFU" />
+        <gene id="1000000215" protId="tr|Q4WEX9|Q4WEX9_ASPFU" />
+        <gene id="1000000216" protId="tr|Q4WG64|Q4WG64_ASPFU" />
+        <gene id="1000000217" protId="tr|Q4WGE1|Q4WGE1_ASPFU" />
+        <gene id="1000000218" protId="tr|Q4WGV3|Q4WGV3_ASPFU" />
+        <gene id="1000000219" protId="tr|Q4WGX7|Q4WGX7_ASPFU" />
+        <gene id="1000000220" protId="tr|Q4WGZ7|Q4WGZ7_ASPFU" />
+        <gene id="1000000221" protId="tr|Q4WHE5|Q4WHE5_ASPFU" />
+        <gene id="1000000222" protId="tr|Q4WHR0|Q4WHR0_ASPFU" />
+        <gene id="1000000223" protId="tr|Q4WHW2|Q4WHW2_ASPFU" />
+        <gene id="1000000224" protId="tr|Q4WI13|Q4WI13_ASPFU" />
+        <gene id="1000000225" protId="sp|Q4WI96|KU80_ASPFU" />
+        <gene id="1000000226" protId="tr|Q4WIB4|Q4WIB4_ASPFU" />
+        <gene id="1000000227" protId="tr|Q4WII6|Q4WII6_ASPFU" />
+        <gene id="1000000228" protId="tr|Q4WIQ1|Q4WIQ1_ASPFU" />
+        <gene id="1000000229" protId="tr|Q4WIU9|Q4WIU9_ASPFU" />
+        <gene id="1000000230" protId="tr|Q4WIZ6|Q4WIZ6_ASPFU" />
+        <gene id="1000000231" protId="tr|Q4WJ07|Q4WJ07_ASPFU" />
+        <gene id="1000000232" protId="tr|Q4WJ50|Q4WJ50_ASPFU" />
+        <gene id="1000000233" protId="tr|Q4WJ56|Q4WJ56_ASPFU" />
+        <gene id="1000000234" protId="tr|Q4WJA0|Q4WJA0_ASPFU" />
+        <gene id="1000000235" protId="sp|Q4WJA1|MCA1A_ASPFU" />
+        <gene id="1000000236" protId="tr|Q4WJA7|Q4WJA7_ASPFU" />
+        <gene id="1000000237" protId="tr|Q4WJD4|Q4WJD4_ASPFU" />
+        <gene id="1000000238" protId="tr|Q4WJK9|Q4WJK9_ASPFU" />
+        <gene id="1000000239" protId="tr|Q4WJP0|Q4WJP0_ASPFU" />
+        <gene id="1000000240" protId="tr|Q4WJS6|Q4WJS6_ASPFU" />
+        <gene id="1000000241" protId="tr|Q4WKU5|Q4WKU5_ASPFU" />
+        <gene id="1000000242" protId="tr|Q4WL36|Q4WL36_ASPFU" />
+        <gene id="1000000243" protId="tr|Q4WL46|Q4WL46_ASPFU" />
+        <gene id="1000000244" protId="tr|Q4WL99|Q4WL99_ASPFU" />
+        <gene id="1000000245" protId="tr|Q4WLV5|Q4WLV5_ASPFU" />
+        <gene id="1000000246" protId="tr|Q4WLY9|Q4WLY9_ASPFU" />
+        <gene id="1000000247" protId="sp|Q4WMU9|PMIP_ASPFU" />
+        <gene id="1000000248" protId="tr|Q4WND0|Q4WND0_ASPFU" />
+        <gene id="1000000249" protId="tr|Q4WNK9|Q4WNK9_ASPFU" />
+        <gene id="1000000250" protId="tr|Q4WNR0|Q4WNR0_ASPFU" />
+        <gene id="1000000251" protId="tr|Q4WNW1|Q4WNW1_ASPFU" />
+        <gene id="1000000252" protId="tr|Q4WP01|Q4WP01_ASPFU" />
+        <gene id="1000000253" protId="tr|Q4WP14|Q4WP14_ASPFU" />
+        <gene id="1000000254" protId="tr|Q4WPM3|Q4WPM3_ASPFU" />
+        <gene id="1000000255" protId="tr|Q4WPX0|Q4WPX0_ASPFU" />
+        <gene id="1000000256" protId="tr|Q4WQ88|Q4WQ88_ASPFU" />
+        <gene id="1000000257" protId="tr|Q4WQ90|Q4WQ90_ASPFU" />
+        <gene id="1000000258" protId="tr|Q4WQE7|Q4WQE7_ASPFU" />
+        <gene id="1000000259" protId="tr|Q4WQM2|Q4WQM2_ASPFU" />
+        <gene id="1000000260" protId="tr|Q4WRB2|Q4WRB2_ASPFU" />
+        <gene id="1000000261" protId="tr|Q4WRC0|Q4WRC0_ASPFU" />
+        <gene id="1000000262" protId="tr|Q4WRE5|Q4WRE5_ASPFU" />
+        <gene id="1000000263" protId="tr|Q4WRZ4|Q4WRZ4_ASPFU" />
+        <gene id="1000000264" protId="tr|Q4WS34|Q4WS34_ASPFU" />
+        <gene id="1000000265" protId="tr|Q4WT22|Q4WT22_ASPFU" />
+        <gene id="1000000266" protId="tr|Q4WTX7|Q4WTX7_ASPFU" />
+        <gene id="1000000267" protId="tr|Q4WTZ8|Q4WTZ8_ASPFU" />
+        <gene id="1000000268" protId="tr|Q4WUK0|Q4WUK0_ASPFU" />
+        <gene id="1000000269" protId="tr|Q4WUN8|Q4WUN8_ASPFU" />
+        <gene id="1000000270" protId="tr|Q4WUX8|Q4WUX8_ASPFU" />
+        <gene id="1000000271" protId="tr|Q4WV78|Q4WV78_ASPFU" />
+        <gene id="1000000272" protId="tr|Q4WVD7|Q4WVD7_ASPFU" />
+        <gene id="1000000273" protId="sp|Q4WVG0|PKCA_ASPFU" />
+        <gene id="1000000274" protId="tr|Q4WVM4|Q4WVM4_ASPFU" />
+        <gene id="1000000275" protId="tr|Q4WVR0|Q4WVR0_ASPFU" />
+        <gene id="1000000276" protId="tr|Q4WVS7|Q4WVS7_ASPFU" />
+        <gene id="1000000277" protId="tr|Q4WVX3|Q4WVX3_ASPFU" />
+        <gene id="1000000278" protId="tr|Q4WWZ4|Q4WWZ4_ASPFU" />
+        <gene id="1000000279" protId="tr|Q4WXR0|Q4WXR0_ASPFU" />
+        <gene id="1000000280" protId="tr|Q4WYD3|Q4WYD3_ASPFU" />
+        <gene id="1000000281" protId="sp|Q4WYT0|MCA1B_ASPFU" />
+        <gene id="1000000282" protId="tr|Q4WZ00|Q4WZ00_ASPFU" />
+        <gene id="1000000283" protId="tr|Q4WZ15|Q4WZ15_ASPFU" />
+        <gene id="1000000284" protId="tr|Q4WZ22|Q4WZ22_ASPFU" />
+        <gene id="1000000285" protId="tr|Q4WZ24|Q4WZ24_ASPFU" />
+        <gene id="1000000286" protId="tr|Q4WZD5|Q4WZD5_ASPFU" />
+        <gene id="1000000287" protId="tr|Q4WZI2|Q4WZI2_ASPFU" />
+        <gene id="1000000288" protId="tr|Q4WZL2|Q4WZL2_ASPFU" />
+        <gene id="1000000289" protId="tr|Q4WZR0|Q4WZR0_ASPFU" />
+        <gene id="1000000290" protId="tr|Q4X016|Q4X016_ASPFU" />
+        <gene id="1000000291" protId="tr|Q4X0L9|Q4X0L9_ASPFU" />
+        <gene id="1000000292" protId="tr|Q4X0P8|Q4X0P8_ASPFU" />
+        <gene id="1000000293" protId="tr|Q4X0Y0|Q4X0Y0_ASPFU" />
+        <gene id="1000000294" protId="tr|Q4X0Z1|Q4X0Z1_ASPFU" />
+        <gene id="1000000295" protId="tr|Q4X177|Q4X177_ASPFU" />
+        <gene id="1000000296" protId="tr|Q4X1E3|Q4X1E3_ASPFU" />
+        <gene id="1000000297" protId="tr|Q4X1J7|Q4X1J7_ASPFU" />
+        <gene id="1000000298" protId="tr|Q4X202|Q4X202_ASPFU" />
+        <gene id="1000000299" protId="tr|Q4X259|Q4X259_ASPFU" />
+        <gene id="1000000300" protId="tr|Q4X268|Q4X268_ASPFU" />
+        <gene id="1000000301" protId="tr|H9CJQ8|H9CJQ8_ASPFU" />
+        <gene id="1000000302" protId="sp|P40292|HSP90_ASPFU" />
+        <gene id="1000000303" protId="tr|Q4W998|Q4W998_ASPFU" />
+        <gene id="1000000304" protId="tr|Q4W9Q9|Q4W9Q9_ASPFU" />
+        <gene id="1000000305" protId="tr|Q4WA86|Q4WA86_ASPFU" />
+        <gene id="1000000306" protId="tr|Q4WAA0|Q4WAA0_ASPFU" />
+        <gene id="1000000307" protId="tr|Q4WAE5|Q4WAE5_ASPFU" />
+        <gene id="1000000308" protId="tr|Q4WAE8|Q4WAE8_ASPFU" />
+        <gene id="1000000309" protId="tr|Q4WAF9|Q4WAF9_ASPFU" />
+        <gene id="1000000310" protId="tr|Q4WAR6|Q4WAR6_ASPFU" />
+        <gene id="1000000311" protId="tr|Q4WB54|Q4WB54_ASPFU" />
+        <gene id="1000000312" protId="tr|Q4WB88|Q4WB88_ASPFU" />
+        <gene id="1000000313" protId="tr|Q4WBD0|Q4WBD0_ASPFU" />
+        <gene id="1000000314" protId="tr|Q4WBD5|Q4WBD5_ASPFU" />
+        <gene id="1000000315" protId="tr|Q4WBS0|Q4WBS0_ASPFU" />
+        <gene id="1000000316" protId="tr|Q4WC03|Q4WC03_ASPFU" />
+        <gene id="1000000317" protId="tr|Q4WC38|Q4WC38_ASPFU" />
+        <gene id="1000000318" protId="tr|Q4WCI0|Q4WCI0_ASPFU" />
+        <gene id="1000000319" protId="tr|Q4WCR2|Q4WCR2_ASPFU" />
+        <gene id="1000000320" protId="sp|Q4WCV3|MRS2_ASPFU" />
+        <gene id="1000000321" protId="tr|Q4WCV9|Q4WCV9_ASPFU" />
+        <gene id="1000000322" protId="tr|Q4WD69|Q4WD69_ASPFU" />
+        <gene id="1000000323" protId="tr|Q4WDD5|Q4WDD5_ASPFU" />
+        <gene id="1000000324" protId="tr|Q4WDH6|Q4WDH6_ASPFU" />
+        <gene id="1000000325" protId="tr|Q4WDL6|Q4WDL6_ASPFU" />
+      </genes>
+    </database>
+  </species>
+  <species name="Saccharomyces_cerevisiae" taxonId="5" NCBITaxId="0">
+    <database name="database" version="2023">
+      <genes>
+        <gene id="1001000001" protId="sp|O13511|YA065_YEAST" />
+        <gene id="1001000002" protId="sp|P00927|THDH_YEAST" />
+        <gene id="1001000003" protId="sp|P03962|PYRF_YEAST" />
+        <gene id="1001000004" protId="sp|P05373|HEM2_YEAST" />
+        <gene id="1001000005" protId="sp|P08964|MYO1_YEAST" />
+        <gene id="1001000006" protId="sp|P09368|PUT1_YEAST" />
+        <gene id="1001000007" protId="sp|P09937|SPS4_YEAST" />
+        <gene id="1001000008" protId="sp|P0C5K9|YB39A_YEAST" />
+        <gene id="1001000009" protId="sp|P0C5M0|YD320_YEAST" />
+        <gene id="1001000010" protId="sp|P0CE86|PAU21_YEAST" />
+        <gene id="1001000011" protId="sp|P0CX19|YH214_YEAST" />
+        <gene id="1001000012" protId="sp|P10849|MTF2_YEAST" />
+        <gene id="1001000013" protId="sp|P11747|TAF13_YEAST" />
+        <gene id="1001000014" protId="sp|P16892|FUS3_YEAST" />
+        <gene id="1001000015" protId="sp|P17119|KAR3_YEAST" />
+        <gene id="1001000016" protId="sp|P20053|PRP4_YEAST" />
+        <gene id="1001000017" protId="sp|P23641|MPCP_YEAST" />
+        <gene id="1001000018" protId="sp|P24521|ERG8_YEAST" />
+        <gene id="1001000019" protId="sp|P25039|EFGM_YEAST" />
+        <gene id="1001000020" protId="sp|P25584|PEX34_YEAST" />
+        <gene id="1001000021" protId="sp|P30777|GPI10_YEAST" />
+        <gene id="1001000022" protId="sp|P31378|NTH1_YEAST" />
+        <gene id="1001000023" protId="sp|P32367|TFC1_YEAST" />
+        <gene id="1001000024" protId="sp|P32559|MSS1_YEAST" />
+        <gene id="1001000025" protId="sp|P32618|YEF3_YEAST" />
+        <gene id="1001000026" protId="sp|P32804|ZRT1_YEAST" />
+        <gene id="1001000027" protId="sp|P32873|BEM3_YEAST" />
+        <gene id="1001000028" protId="sp|P32908|SMC1_YEAST" />
+        <gene id="1001000029" protId="sp|P33308|MED9_YEAST" />
+        <gene id="1001000030" protId="sp|P33890|TIR2_YEAST" />
+        <gene id="1001000031" protId="sp|P35210|SPT23_YEAST" />
+        <gene id="1001000032" protId="sp|P36010|NDK_YEAST" />
+        <gene id="1001000033" protId="sp|P36022|DYHC_YEAST" />
+        <gene id="1001000034" protId="sp|P36117|ALY1_YEAST" />
+        <gene id="1001000035" protId="sp|P36163|OMA1_YEAST" />
+        <gene id="1001000036" protId="sp|P37292|GLYM_YEAST" />
+        <gene id="1001000037" protId="sp|P38071|ETR1_YEAST" />
+        <gene id="1001000038" protId="sp|P38353|SSH1_YEAST" />
+        <gene id="1001000039" protId="sp|P38697|IMDH2_YEAST" />
+        <gene id="1001000040" protId="sp|P38819|ERP5_YEAST" />
+        <gene id="1001000041" protId="sp|P38900|YH19_YEAST" />
+        <gene id="1001000042" protId="sp|P38903|2A5D_YEAST" />
+        <gene id="1001000043" protId="sp|P38961|RRP8_YEAST" />
+        <gene id="1001000044" protId="sp|P39105|PLB1_YEAST" />
+        <gene id="1001000045" protId="sp|P39564|YAN8_YEAST" />
+        <gene id="1001000046" protId="sp|P39706|SWD1_YEAST" />
+        <gene id="1001000047" protId="sp|P39924|HXT13_YEAST" />
+        <gene id="1001000048" protId="sp|P39958|GDI1_YEAST" />
+        <gene id="1001000049" protId="sp|P40202|CCS1_YEAST" />
+        <gene id="1001000050" protId="sp|P47039|BNA3_YEAST" />
+        <gene id="1001000051" protId="sp|P47081|COX16_YEAST" />
+        <gene id="1001000052" protId="sp|P47152|YJ85_YEAST" />
+        <gene id="1001000053" protId="sp|P47172|YJ9I_YEAST" />
+        <gene id="1001000054" protId="sp|P48564|MRX6_YEAST" />
+        <gene id="1001000055" protId="sp|P50276|MUP1_YEAST" />
+        <gene id="1001000056" protId="sp|P52893|ALAM_YEAST" />
+        <gene id="1001000057" protId="sp|P52924|COS10_YEAST" />
+        <gene id="1001000058" protId="sp|P53109|AIM14_YEAST" />
+        <gene id="1001000059" protId="sp|P53128|MTHR2_YEAST" />
+        <gene id="1001000060" protId="sp|P53754|YN97_YEAST" />
+        <gene id="1001000061" protId="sp|P53925|YNL5_YEAST" />
+        <gene id="1001000062" protId="sp|P53973|HDA1_YEAST" />
+        <gene id="1001000063" protId="sp|Q01926|MRS2_YEAST" />
+        <gene id="1001000064" protId="sp|Q02863|UBP16_YEAST" />
+        <gene id="1001000065" protId="sp|Q02872|YP108_YEAST" />
+        <gene id="1001000066" protId="sp|Q02890|PNG1_YEAST" />
+        <gene id="1001000067" protId="sp|Q03067|SGF11_YEAST" />
+        <gene id="1001000068" protId="sp|Q03210|NGL3_YEAST" />
+        <gene id="1001000069" protId="sp|Q03407|PKH1_YEAST" />
+        <gene id="1001000070" protId="sp|Q03465|RPN4_YEAST" />
+        <gene id="1001000071" protId="sp|Q03558|OYE2_YEAST" />
+        <gene id="1001000072" protId="sp|Q04311|VMS1_YEAST" />
+        <gene id="1001000073" protId="sp|Q04746|KAR5_YEAST" />
+        <gene id="1001000074" protId="sp|Q05787|HRD3_YEAST" />
+        <gene id="1001000075" protId="sp|Q05871|ECI1_YEAST" />
+        <gene id="1001000076" protId="sp|Q05900|RU1C_YEAST" />
+        <gene id="1001000077" protId="sp|Q06106|MRD1_YEAST" />
+        <gene id="1001000078" protId="sp|Q06151|DCPS_YEAST" />
+        <gene id="1001000079" protId="sp|Q06325|YPS7_YEAST" />
+        <gene id="1001000080" protId="sp|Q06406|LSM6_YEAST" />
+        <gene id="1001000081" protId="sp|Q06580|MLC2_YEAST" />
+        <gene id="1001000082" protId="sp|Q07551|KAR_YEAST" />
+        <gene id="1001000083" protId="sp|Q07651|FMP45_YEAST" />
+        <gene id="1001000084" protId="sp|Q07747|AAD4_YEAST" />
+        <gene id="1001000085" protId="sp|Q08956|YIG1_YEAST" />
+        <gene id="1001000086" protId="sp|Q08969|GRE1_YEAST" />
+        <gene id="1001000087" protId="sp|Q12060|HFI1_YEAST" />
+        <gene id="1001000088" protId="sp|Q12099|FAL1_YEAST" />
+        <gene id="1001000089" protId="sp|Q12121|YD211_YEAST" />
+        <gene id="1001000090" protId="sp|Q12301|YD180_YEAST" />
+        <gene id="1001000091" protId="sp|Q12344|GYP5_YEAST" />
+        <gene id="1001000092" protId="sp|Q12383|TRM13_YEAST" />
+        <gene id="1001000093" protId="sp|Q12454|OCA6_YEAST" />
+        <gene id="1001000094" protId="sp|Q12504|RKM4_YEAST" />
+        <gene id="1001000095" protId="sp|Q3E755|YB200_YEAST" />
+        <gene id="1001000096" protId="sp|Q3E811|RRT15_YEAST" />
+        <gene id="1001000097" protId="sp|Q3E823|COA2_YEAST" />
+        <gene id="1001000098" protId="sp|Q6B0V8|IRC16_YEAST" />
+        <gene id="1001000099" protId="sp|Q6Q547|NOP10_YEAST" />
+        <gene id="1001000100" protId="sp|Q99219|YI31A_YEAST" />
+        <gene id="1001000101" protId="sp|P00330|ADH1_YEAST" />
+        <gene id="1001000102" protId="sp|P06778|RAD52_YEAST" />
+        <gene id="1001000103" protId="sp|P0CF19|YO162_YEAST" />
+        <gene id="1001000104" protId="sp|P0CX12|COS2_YEAST" />
+        <gene id="1001000105" protId="sp|P0CX45|RL2A_YEAST" />
+        <gene id="1001000106" protId="sp|P0CX80|MTCU1_YEAST" />
+        <gene id="1001000107" protId="sp|P0CX87|RL41B_YEAST" />
+        <gene id="1001000108" protId="sp|P13663|DHAS_YEAST" />
+        <gene id="1001000109" protId="sp|P16861|PFKA1_YEAST" />
+        <gene id="1001000110" protId="sp|P16965|STF2_YEAST" />
+        <gene id="1001000111" protId="sp|P17255|VATA_YEAST" />
+        <gene id="1001000112" protId="sp|P21269|CCA1_YEAST" />
+        <gene id="1001000113" protId="sp|P24309|DBR1_YEAST" />
+        <gene id="1001000114" protId="sp|P24783|DBP2_YEAST" />
+        <gene id="1001000115" protId="sp|P25038|IF2M_YEAST" />
+        <gene id="1001000116" protId="sp|P25296|CANB_YEAST" />
+        <gene id="1001000117" protId="sp|P25568|ATG22_YEAST" />
+        <gene id="1001000118" protId="sp|P25808|SPB4_YEAST" />
+        <gene id="1001000119" protId="sp|P26343|DAL80_YEAST" />
+        <gene id="1001000120" protId="sp|P27895|CIN8_YEAST" />
+        <gene id="1001000121" protId="sp|P28006|GAC1_YEAST" />
+        <gene id="1001000122" protId="sp|P30665|MCM4_YEAST" />
+        <gene id="1001000123" protId="sp|P32190|GLPK_YEAST" />
+        <gene id="1001000124" protId="sp|P32332|OAC1_YEAST" />
+        <gene id="1001000125" protId="sp|P32494|NGG1_YEAST" />
+        <gene id="1001000126" protId="sp|P32783|MCES_YEAST" />
+        <gene id="1001000127" protId="sp|P33420|NIP80_YEAST" />
+        <gene id="1001000128" protId="sp|P34072|MKS1_YEAST" />
+        <gene id="1001000129" protId="sp|P36077|SRX1_YEAST" />
+        <gene id="1001000130" protId="sp|P36111|YKZ5_YEAST" />
+        <gene id="1001000131" protId="sp|P36167|SRL3_YEAST" />
+        <gene id="1001000132" protId="sp|P37838|NOP4_YEAST" />
+        <gene id="1001000133" protId="sp|P38129|TAF5_YEAST" />
+        <gene id="1001000134" protId="sp|P38177|YBI6_YEAST" />
+        <gene id="1001000135" protId="sp|P38187|UBP13_YEAST" />
+        <gene id="1001000136" protId="sp|P38236|MUM2_YEAST" />
+        <gene id="1001000137" protId="sp|P38305|AIM4_YEAST" />
+        <gene id="1001000138" protId="sp|P38794|PCL5_YEAST" />
+        <gene id="1001000139" protId="sp|P38910|CH10_YEAST" />
+        <gene id="1001000140" protId="sp|P38969|PNT1_YEAST" />
+        <gene id="1001000141" protId="sp|P39003|HXT6_YEAST" />
+        <gene id="1001000142" protId="sp|P39926|SSO2_YEAST" />
+        <gene id="1001000143" protId="sp|P39931|SS120_YEAST" />
+        <gene id="1001000144" protId="sp|P40011|RRAAH_YEAST" />
+        <gene id="1001000145" protId="sp|P40065|MAM1_YEAST" />
+        <gene id="1001000146" protId="sp|P40079|LCP5_YEAST" />
+        <gene id="1001000147" protId="sp|P40166|YNT8_YEAST" />
+        <gene id="1001000148" protId="sp|P40469|MET18_YEAST" />
+        <gene id="1001000149" protId="sp|P40513|MAM33_YEAST" />
+        <gene id="1001000150" protId="sp|P40529|AGE2_YEAST" />
+        <gene id="1001000151" protId="sp|P40975|PMP2_YEAST" />
+        <gene id="1001000152" protId="sp|P43123|UAP1_YEAST" />
+        <gene id="1001000153" protId="sp|P43616|DUG1_YEAST" />
+        <gene id="1001000154" protId="sp|P46670|TBCC_YEAST" />
+        <gene id="1001000155" protId="sp|P47131|YJ55_YEAST" />
+        <gene id="1001000156" protId="sp|P47142|VPS25_YEAST" />
+        <gene id="1001000157" protId="sp|P50080|AZR1_YEAST" />
+        <gene id="1001000158" protId="sp|P53081|NIF3_YEAST" />
+        <gene id="1001000159" protId="sp|P53101|STR3_YEAST" />
+        <gene id="1001000160" protId="sp|P53185|YG036_YEAST" />
+        <gene id="1001000161" protId="sp|P53192|GET1_YEAST" />
+        <gene id="1001000162" protId="sp|P53261|PESC_YEAST" />
+        <gene id="1001000163" protId="sp|P53286|BTN2_YEAST" />
+        <gene id="1001000164" protId="sp|P53538|SSU72_YEAST" />
+        <gene id="1001000165" protId="sp|P53583|MPA43_YEAST" />
+        <gene id="1001000166" protId="sp|P53963|YND4_YEAST" />
+        <gene id="1001000167" protId="sp|P60010|ACT_YEAST" />
+        <gene id="1001000168" protId="sp|Q00539|NAM8_YEAST" />
+        <gene id="1001000169" protId="sp|Q01722|GCR2_YEAST" />
+        <gene id="1001000170" protId="sp|Q02203|YKY5_YEAST" />
+        <gene id="1001000171" protId="sp|Q02889|MGR2_YEAST" />
+        <gene id="1001000172" protId="sp|Q02933|RNY1_YEAST" />
+        <gene id="1001000173" protId="sp|Q03063|DIG1_YEAST" />
+        <gene id="1001000174" protId="sp|Q03103|ERO1_YEAST" />
+        <gene id="1001000175" protId="sp|Q03533|TDA1_YEAST" />
+        <gene id="1001000176" protId="sp|Q04304|YMY0_YEAST" />
+        <gene id="1001000177" protId="sp|Q04344|HNT1_YEAST" />
+        <gene id="1001000178" protId="sp|Q05080|CYK2_YEAST" />
+        <gene id="1001000179" protId="sp|Q05785|ENT2_YEAST" />
+        <gene id="1001000180" protId="sp|Q05902|ECM38_YEAST" />
+        <gene id="1001000181" protId="sp|Q06010|STE23_YEAST" />
+        <gene id="1001000182" protId="sp|Q06078|UTP21_YEAST" />
+        <gene id="1001000183" protId="sp|Q06677|SWA2_YEAST" />
+        <gene id="1001000184" protId="sp|Q06702|CDA1_YEAST" />
+        <gene id="1001000185" protId="sp|Q07478|SUB2_YEAST" />
+        <gene id="1001000186" protId="sp|Q07528|ATG20_YEAST" />
+        <gene id="1001000187" protId="sp|Q08232|DSC2_YEAST" />
+        <gene id="1001000188" protId="sp|Q08268|MCH4_YEAST" />
+        <gene id="1001000189" protId="sp|Q08562|ULS1_YEAST" />
+        <gene id="1001000190" protId="sp|Q12224|RLM1_YEAST" />
+        <gene id="1001000191" protId="sp|Q12235|YCT1_YEAST" />
+        <gene id="1001000192" protId="sp|Q12346|YPR71_YEAST" />
+        <gene id="1001000193" protId="sp|Q12466|TCB1_YEAST" />
+        <gene id="1001000194" protId="sp|Q12472|YD21B_YEAST" />
+        <gene id="1001000195" protId="sp|Q12674|ATC8_YEAST" />
+        <gene id="1001000196" protId="sp|Q12753|HAA1_YEAST" />
+        <gene id="1001000197" protId="sp|Q3E752|SPO24_YEAST" />
+        <gene id="1001000198" protId="sp|Q99299|AIM44_YEAST" />
+        <gene id="1001000199" protId="sp|Q99316|MPD2_YEAST" />
+        <gene id="1001000200" protId="sp|Q99369|FSH3_YEAST" />
+        <gene id="1001000201" protId="sp|O13549|VPS63_YEAST" />
+        <gene id="1001000202" protId="sp|P03881|YMRF1_YEAST" />
+        <gene id="1001000203" protId="sp|P04387|GAL80_YEAST" />
+        <gene id="1001000204" protId="sp|P05739|RL6B_YEAST" />
+        <gene id="1001000205" protId="sp|P06367|RS14A_YEAST" />
+        <gene id="1001000206" protId="sp|P06844|SPT3_YEAST" />
+        <gene id="1001000207" protId="sp|P07263|SYH_YEAST" />
+        <gene id="1001000208" protId="sp|P07277|ERG12_YEAST" />
+        <gene id="1001000209" protId="sp|P0C5N4|YH73B_YEAST" />
+        <gene id="1001000210" protId="sp|P0CS90|HSP77_YEAST" />
+        <gene id="1001000211" protId="sp|P0CX64|YG22B_YEAST" />
+        <gene id="1001000212" protId="sp|P10662|RT01_YEAST" />
+        <gene id="1001000213" protId="sp|P12904|AAKG_YEAST" />
+        <gene id="1001000214" protId="sp|P15202|CATA_YEAST" />
+        <gene id="1001000215" protId="sp|P15790|CSK21_YEAST" />
+        <gene id="1001000216" protId="sp|P18239|ADT2_YEAST" />
+        <gene id="1001000217" protId="sp|P20449|DBP5_YEAST" />
+        <gene id="1001000218" protId="sp|P25368|RRP7_YEAST" />
+        <gene id="1001000219" protId="sp|P25390|SSK22_YEAST" />
+        <gene id="1001000220" protId="sp|P25631|YCU1_YEAST" />
+        <gene id="1001000221" protId="sp|P27466|KCC1_YEAST" />
+        <gene id="1001000222" protId="sp|P29704|ERG9_YEAST" />
+        <gene id="1001000223" protId="sp|P30902|ATP7_YEAST" />
+        <gene id="1001000224" protId="sp|P32389|MET4_YEAST" />
+        <gene id="1001000225" protId="sp|P32500|NDC1_YEAST" />
+        <gene id="1001000226" protId="sp|P32609|PEP7_YEAST" />
+        <gene id="1001000227" protId="sp|P32792|YHH7_YEAST" />
+        <gene id="1001000228" protId="sp|P32794|AFG2_YEAST" />
+        <gene id="1001000229" protId="sp|P32805|FZF1_YEAST" />
+        <gene id="1001000230" protId="sp|P32838|PP2A4_YEAST" />
+        <gene id="1001000231" protId="sp|P33203|PRP40_YEAST" />
+        <gene id="1001000232" protId="sp|P33296|UBC6_YEAST" />
+        <gene id="1001000233" protId="sp|P34252|SLD2_YEAST" />
+        <gene id="1001000234" protId="sp|P36124|SET3_YEAST" />
+        <gene id="1001000235" protId="sp|P36224|JNM1_YEAST" />
+        <gene id="1001000236" protId="sp|P38042|CDC27_YEAST" />
+        <gene id="1001000237" protId="sp|P38137|FAT2_YEAST" />
+        <gene id="1001000238" protId="sp|P38228|TCM62_YEAST" />
+        <gene id="1001000239" protId="sp|P38286|MKAR_YEAST" />
+        <gene id="1001000240" protId="sp|P38292|PEX32_YEAST" />
+        <gene id="1001000241" protId="sp|P38625|GUAA_YEAST" />
+        <gene id="1001000242" protId="sp|P38811|TRA1_YEAST" />
+        <gene id="1001000243" protId="sp|P38913|FAD1_YEAST" />
+        <gene id="1001000244" protId="sp|P39010|AKR1_YEAST" />
+        <gene id="1001000245" protId="sp|P39524|ATC3_YEAST" />
+        <gene id="1001000246" protId="sp|P39529|YJU6_YEAST" />
+        <gene id="1001000247" protId="sp|P40013|BIM1_YEAST" />
+        <gene id="1001000248" protId="sp|P40015|ISC1_YEAST" />
+        <gene id="1001000249" protId="sp|P40091|PEA2_YEAST" />
+        <gene id="1001000250" protId="sp|P40344|ATG3_YEAST" />
+        <gene id="1001000251" protId="sp|P40446|YIQ5_YEAST" />
+        <gene id="1001000252" protId="sp|P40511|SPO22_YEAST" />
+        <gene id="1001000253" protId="sp|P40512|CSN11_YEAST" />
+        <gene id="1001000254" protId="sp|P40514|YIG7_YEAST" />
+        <gene id="1001000255" protId="sp|P40575|YIU0_YEAST" />
+        <gene id="1001000256" protId="sp|P40992|RRN7_YEAST" />
+        <gene id="1001000257" protId="sp|P41811|COPB2_YEAST" />
+        <gene id="1001000258" protId="sp|P42941|SERB_YEAST" />
+        <gene id="1001000259" protId="sp|P42950|GSM1_YEAST" />
+        <gene id="1001000260" protId="sp|P47046|IRC8_YEAST" />
+        <gene id="1001000261" protId="sp|P47057|SNX4_YEAST" />
+        <gene id="1001000262" protId="sp|P47140|AIM25_YEAST" />
+        <gene id="1001000263" protId="sp|P47141|RT26_YEAST" />
+        <gene id="1001000264" protId="sp|P48558|BXI1_YEAST" />
+        <gene id="1001000265" protId="sp|P52923|AIF1_YEAST" />
+        <gene id="1001000266" protId="sp|P53045|ERG25_YEAST" />
+        <gene id="1001000267" protId="sp|P53121|FLC3_YEAST" />
+        <gene id="1001000268" protId="sp|P53152|MMS2_YEAST" />
+        <gene id="1001000269" protId="sp|P53309|AP18B_YEAST" />
+        <gene id="1001000270" protId="sp|P53835|PRM1_YEAST" />
+        <gene id="1001000271" protId="sp|P53886|APC1_YEAST" />
+        <gene id="1001000272" protId="sp|P53942|RNH2A_YEAST" />
+        <gene id="1001000273" protId="sp|Q02199|NUP49_YEAST" />
+        <gene id="1001000274" protId="sp|Q02201|OSH6_YEAST" />
+        <gene id="1001000275" protId="sp|Q03212|EAR1_YEAST" />
+        <gene id="1001000276" protId="sp|Q03281|HEH2_YEAST" />
+        <gene id="1001000277" protId="sp|Q03435|NHP10_YEAST" />
+        <gene id="1001000278" protId="sp|Q03768|GIR2_YEAST" />
+        <gene id="1001000279" protId="sp|Q04018|YM79_YEAST" />
+        <gene id="1001000280" protId="sp|Q04182|PDR15_YEAST" />
+        <gene id="1001000281" protId="sp|Q04867|YM91_YEAST" />
+        <gene id="1001000282" protId="sp|Q05809|COA4_YEAST" />
+        <gene id="1001000283" protId="sp|Q06510|TAZ_YEAST" />
+        <gene id="1001000284" protId="sp|Q06815|MRL1_YEAST" />
+        <gene id="1001000285" protId="sp|Q07746|YD242_YEAST" />
+        <gene id="1001000286" protId="sp|Q07914|TIM14_YEAST" />
+        <gene id="1001000287" protId="sp|Q07915|RLP24_YEAST" />
+        <gene id="1001000288" protId="sp|Q08187|YO029_YEAST" />
+        <gene id="1001000289" protId="sp|Q08686|THTR_YEAST" />
+        <gene id="1001000290" protId="sp|Q12066|NUR1_YEAST" />
+        <gene id="1001000291" protId="sp|Q12074|SPEE_YEAST" />
+        <gene id="1001000292" protId="sp|Q12209|FRE8_YEAST" />
+        <gene id="1001000293" protId="sp|Q12368|SNU23_YEAST" />
+        <gene id="1001000294" protId="sp|Q12424|YD206_YEAST" />
+        <gene id="1001000295" protId="sp|Q12489|YD012_YEAST" />
+        <gene id="1001000296" protId="sp|Q2V2P0|YP145_YEAST" />
+        <gene id="1001000297" protId="sp|Q3E766|YM175_YEAST" />
+        <gene id="1001000298" protId="sp|Q3E7A2|YE078_YEAST" />
+        <gene id="1001000299" protId="sp|Q8TGS8|YM105_YEAST" />
+        <gene id="1001000300" protId="sp|Q99278|MED11_YEAST" />
+        <gene id="1001000301" protId="sp|A0A8D9UGQ7|YL79A_YEAST" />
+        <gene id="1001000302" protId="sp|P02406|RL28_YEAST" />
+        <gene id="1001000303" protId="sp|P04819|DNLI1_YEAST" />
+        <gene id="1001000304" protId="sp|P05374|CHO2_YEAST" />
+        <gene id="1001000305" protId="sp|P06786|TOP2_YEAST" />
+        <gene id="1001000306" protId="sp|P06787|CALM_YEAST" />
+        <gene id="1001000307" protId="sp|P07244|PUR2_YEAST" />
+        <gene id="1001000308" protId="sp|P07251|ATPA_YEAST" />
+      </genes>
+    </database>
+  </species>
+  <species name="Schizosaccharomyces_pombe" taxonId="9" NCBITaxId="0">
+    <database name="database" version="2023">
+      <genes>
+        <gene id="1002000001" protId="sp|G2TRM3|YAOJ_SCHPO" />
+        <gene id="1002000002" protId="sp|G2TRT0|YHX4_SCHPO" />
+        <gene id="1002000003" protId="sp|O13286|SRW1_SCHPO" />
+        <gene id="1002000004" protId="sp|O13615|PRP46_SCHPO" />
+        <gene id="1002000005" protId="sp|O13629|LPLA_SCHPO" />
+        <gene id="1002000006" protId="sp|O13805|YE08_SCHPO" />
+        <gene id="1002000007" protId="sp|O13987|YEG5_SCHPO" />
+        <gene id="1002000008" protId="sp|O13993|RPOM_SCHPO" />
+        <gene id="1002000009" protId="sp|O14011|PRP19_SCHPO" />
+        <gene id="1002000010" protId="sp|O14069|RL28_SCHPO" />
+        <gene id="1002000011" protId="sp|O14216|SLD2_SCHPO" />
+        <gene id="1002000012" protId="sp|O14326|PUB3_SCHPO" />
+        <gene id="1002000013" protId="sp|O14345|PFA3_SCHPO" />
+        <gene id="1002000014" protId="sp|O14399|UBL1_SCHPO" />
+        <gene id="1002000015" protId="sp|O42849|SYFB_SCHPO" />
+        <gene id="1002000016" protId="sp|O42915|UFD1_SCHPO" />
+        <gene id="1002000017" protId="sp|O59731|YHXB_SCHPO" />
+        <gene id="1002000018" protId="sp|O59778|BIOB_SCHPO" />
+        <gene id="1002000019" protId="sp|O60072|SLH1_SCHPO" />
+        <gene id="1002000020" protId="sp|O60108|CBH2_SCHPO" />
+        <gene id="1002000021" protId="sp|O60119|SCS2_SCHPO" />
+        <gene id="1002000022" protId="sp|O60175|OPI10_SCHPO" />
+        <gene id="1002000023" protId="sp|O74184|WAT1_SCHPO" />
+        <gene id="1002000024" protId="sp|O74365|SOL1_SCHPO" />
+        <gene id="1002000025" protId="sp|O74469|YQC7_SCHPO" />
+        <gene id="1002000026" protId="sp|O74729|PPIH_SCHPO" />
+        <gene id="1002000027" protId="sp|O74874|CCR4_SCHPO" />
+        <gene id="1002000028" protId="sp|O74879|NOL10_SCHPO" />
+        <gene id="1002000029" protId="sp|O74995|TFH47_SCHPO" />
+        <gene id="1002000030" protId="sp|O94236|EIF3D_SCHPO" />
+        <gene id="1002000031" protId="sp|O94282|CTU1_SCHPO" />
+        <gene id="1002000032" protId="sp|O94293|YOO8_SCHPO" />
+        <gene id="1002000033" protId="sp|O94388|VPS92_SCHPO" />
+        <gene id="1002000034" protId="sp|O94402|ZIP2_SCHPO" />
+        <gene id="1002000035" protId="sp|O94431|EGT2_SCHPO" />
+        <gene id="1002000036" protId="sp|O94561|PRX_SCHPO" />
+        <gene id="1002000037" protId="sp|O94584|PSS_SCHPO" />
+        <gene id="1002000038" protId="sp|O94671|DHOM_SCHPO" />
+        <gene id="1002000039" protId="sp|O94718|IPI1_SCHPO" />
+        <gene id="1002000040" protId="sp|P0CU14|YI42_SCHPO" />
+        <gene id="1002000041" protId="sp|P10506|BYR1_SCHPO" />
+        <gene id="1002000042" protId="sp|P34069|MFM2_SCHPO" />
+        <gene id="1002000043" protId="sp|P36580|ALF_SCHPO" />
+        <gene id="1002000044" protId="sp|P36587|NCPR_SCHPO" />
+        <gene id="1002000045" protId="sp|P36615|CSK1_SCHPO" />
+        <gene id="1002000046" protId="sp|P40235|HHP1_SCHPO" />
+        <gene id="1002000047" protId="sp|P78831|GHT5_SCHPO" />
+        <gene id="1002000048" protId="sp|P78921|TCPQ_SCHPO" />
+        <gene id="1002000049" protId="sp|P78966|MAM1_SCHPO" />
+        <gene id="1002000050" protId="sp|P87320|MSP1_SCHPO" />
+        <gene id="1002000051" protId="sp|Q09691|RF1M_SCHPO" />
+        <gene id="1002000052" protId="sp|Q09736|CP51_SCHPO" />
+        <gene id="1002000053" protId="sp|Q09740|GFA1_SCHPO" />
+        <gene id="1002000054" protId="sp|Q09868|CIP2_SCHPO" />
+        <gene id="1002000055" protId="sp|Q09908|PHF2_SCHPO" />
+        <gene id="1002000056" protId="sp|Q10201|YBX7_SCHPO" />
+        <gene id="1002000057" protId="sp|Q10256|MUD1_SCHPO" />
+        <gene id="1002000058" protId="sp|Q10283|HMDH_SCHPO" />
+        <gene id="1002000059" protId="sp|Q10320|YD68_SCHPO" />
+        <gene id="1002000060" protId="sp|Q10407|MKH1_SCHPO" />
+        <gene id="1002000061" protId="sp|Q10436|YDE2_SCHPO" />
+        <gene id="1002000062" protId="sp|Q10475|IF4G_SCHPO" />
+        <gene id="1002000063" protId="sp|Q6LA53|AAR2_SCHPO" />
+        <gene id="1002000064" protId="sp|Q7LL14|RU2B_SCHPO" />
+        <gene id="1002000065" protId="sp|Q92346|YDH1_SCHPO" />
+        <gene id="1002000066" protId="sp|Q92357|CFR1_SCHPO" />
+        <gene id="1002000067" protId="sp|Q96WV2|YJO2_SCHPO" />
+        <gene id="1002000068" protId="sp|Q9C112|YAVA_SCHPO" />
+        <gene id="1002000069" protId="sp|Q9HDU1|YHEE_SCHPO" />
+        <gene id="1002000070" protId="sp|Q9HDY2|YK18_SCHPO" />
+        <gene id="1002000071" protId="sp|Q9P370|BUD20_SCHPO" />
+        <gene id="1002000072" protId="sp|Q9P6I8|YHG1_SCHPO" />
+        <gene id="1002000073" protId="sp|Q9P6K7|ARC1_SCHPO" />
+        <gene id="1002000074" protId="sp|Q9P6M5|YKS1_SCHPO" />
+        <gene id="1002000075" protId="sp|Q9P787|YNY3_SCHPO" />
+        <gene id="1002000076" protId="sp|Q9P793|MIT1_SCHPO" />
+        <gene id="1002000077" protId="sp|Q9P7M5|NOP10_SCHPO" />
+        <gene id="1002000078" protId="sp|Q9P7N1|BUD32_SCHPO" />
+        <gene id="1002000079" protId="sp|Q9P7V2|ABC4_SCHPO" />
+        <gene id="1002000080" protId="sp|Q9P7X3|FRG1_SCHPO" />
+        <gene id="1002000081" protId="sp|Q9P7Y4|MED14_SCHPO" />
+        <gene id="1002000082" protId="sp|Q9URT9|GSK31_SCHPO" />
+        <gene id="1002000083" protId="sp|Q9URX7|ANM1_SCHPO" />
+        <gene id="1002000084" protId="sp|Q9US44|YIZG_SCHPO" />
+        <gene id="1002000085" protId="sp|Q9USH0|YJH4_SCHPO" />
+        <gene id="1002000086" protId="sp|Q9USH1|MED31_SCHPO" />
+        <gene id="1002000087" protId="sp|Q9UT31|MU130_SCHPO" />
+        <gene id="1002000088" protId="sp|Q9UT35|GDA1_SCHPO" />
+        <gene id="1002000089" protId="sp|Q9UT54|YI95_SCHPO" />
+        <gene id="1002000090" protId="sp|Q9UT61|MAN1_SCHPO" />
+        <gene id="1002000091" protId="sp|Q9UT81|UBX3_SCHPO" />
+        <gene id="1002000092" protId="sp|Q9UTB0|YL88_SCHPO" />
+        <gene id="1002000093" protId="sp|Q9UTI7|TYSY_SCHPO" />
+        <gene id="1002000094" protId="sp|Q9UTJ8|RAD50_SCHPO" />
+        <gene id="1002000095" protId="sp|Q9UTM2|CO111_SCHPO" />
+        <gene id="1002000096" protId="sp|Q9UUC8|RM51_SCHPO" />
+        <gene id="1002000097" protId="sp|Q9UUK1|CTBL1_SCHPO" />
+        <gene id="1002000098" protId="sp|Q9Y7K7|TVP23_SCHPO" />
+        <gene id="1002000099" protId="sp|Q9Y7X9|KIN17_SCHPO" />
+        <gene id="1002000100" protId="sp|Q9Y7Z9|COQ6_SCHPO" />
+        <gene id="1002000101" protId="sp|A6X969|YI9B_SCHPO" />
+        <gene id="1002000102" protId="sp|C6Y4A5|YELS_SCHPO" />
+        <gene id="1002000103" protId="sp|G2TRM6|NEW4_SCHPO" />
+        <gene id="1002000104" protId="sp|G2TRN0|YAYG_SCHPO" />
+        <gene id="1002000105" protId="sp|G2TRQ2|TAM8_SCHPO" />
+        <gene id="1002000106" protId="sp|O13622|MS116_SCHPO" />
+        <gene id="1002000107" protId="sp|O13687|VATE_SCHPO" />
+        <gene id="1002000108" protId="sp|O13753|VA0D_SCHPO" />
+        <gene id="1002000109" protId="sp|O13804|YE07_SCHPO" />
+        <gene id="1002000110" protId="sp|O13849|CBPY_SCHPO" />
+        <gene id="1002000111" protId="sp|O13898|PMT1_SCHPO" />
+        <gene id="1002000112" protId="sp|O13916|HCN1_SCHPO" />
+        <gene id="1002000113" protId="sp|O13950|SRPB_SCHPO" />
+        <gene id="1002000114" protId="sp|O13959|RBX1_SCHPO" />
+        <gene id="1002000115" protId="sp|O14040|DI3L2_SCHPO" />
+        <gene id="1002000116" protId="sp|O14063|IMA1_SCHPO" />
+        <gene id="1002000117" protId="sp|O14234|CCH1_SCHPO" />
+        <gene id="1002000118" protId="sp|O14295|PLR1_SCHPO" />
+        <gene id="1002000119" protId="sp|O14307|TRM61_SCHPO" />
+        <gene id="1002000120" protId="sp|O36028|ATCZ_SCHPO" />
+        <gene id="1002000121" protId="sp|O42957|ULP1_SCHPO" />
+        <gene id="1002000122" protId="sp|O43019|SRE2_SCHPO" />
+        <gene id="1002000123" protId="sp|O43057|MSS4_SCHPO" />
+        <gene id="1002000124" protId="sp|O59784|MDE7_SCHPO" />
+        <gene id="1002000125" protId="sp|O60168|LCL3_SCHPO" />
+        <gene id="1002000126" protId="sp|O60188|UTP6_SCHPO" />
+        <gene id="1002000127" protId="sp|O74345|UCP3_SCHPO" />
+        <gene id="1002000128" protId="sp|O74435|CDC31_SCHPO" />
+        <gene id="1002000129" protId="sp|O74463|YQC1_SCHPO" />
+        <gene id="1002000130" protId="sp|O74781|SYRC_SCHPO" />
+        <gene id="1002000131" protId="sp|O74793|YOUB_SCHPO" />
+        <gene id="1002000132" protId="sp|O74846|SEC6_SCHPO" />
+        <gene id="1002000133" protId="sp|O74897|SWC5_SCHPO" />
+        <gene id="1002000134" protId="sp|O74940|NADE_SCHPO" />
+        <gene id="1002000135" protId="sp|O74953|YJC7_SCHPO" />
+        <gene id="1002000136" protId="sp|O74983|MMS2_SCHPO" />
+        <gene id="1002000137" protId="sp|O94270|ERD2_SCHPO" />
+        <gene id="1002000138" protId="sp|O94328|MU118_SCHPO" />
+        <gene id="1002000139" protId="sp|O94407|SEC65_SCHPO" />
+        <gene id="1002000140" protId="sp|O94590|SEC1_SCHPO" />
+        <gene id="1002000141" protId="sp|O94600|TTI1_SCHPO" />
+        <gene id="1002000142" protId="sp|O94695|YG1B_SCHPO" />
+        <gene id="1002000143" protId="sp|O94723|RM20_SCHPO" />
+        <gene id="1002000144" protId="sp|P0CT75|RS23A_SCHPO" />
+        <gene id="1002000145" protId="sp|P0CY17|MATMC_SCHPO" />
+        <gene id="1002000146" protId="sp|P22191|YMC1_SCHPO" />
+        <gene id="1002000147" protId="sp|P31318|ARG56_SCHPO" />
+        <gene id="1002000148" protId="sp|P32587|PYP3_SCHPO" />
+        <gene id="1002000149" protId="sp|P40234|CKI2_SCHPO" />
+        <gene id="1002000150" protId="sp|P42657|RAD25_SCHPO" />
+        <gene id="1002000151" protId="sp|P48011|RPAB4_SCHPO" />
+        <gene id="1002000152" protId="sp|P78954|IF4E1_SCHPO" />
+        <gene id="1002000153" protId="sp|P87317|YB2G_SCHPO" />
+        <gene id="1002000154" protId="sp|Q09181|DHH1_SCHPO" />
+        <gene id="1002000155" protId="sp|Q09687|AGM1_SCHPO" />
+        <gene id="1002000156" protId="sp|Q09809|CSC1_SCHPO" />
+        <gene id="1002000157" protId="sp|Q09828|SYLM_SCHPO" />
+        <gene id="1002000158" protId="sp|Q09851|AYR1_SCHPO" />
+        <gene id="1002000159" protId="sp|Q09892|HOG1_SCHPO" />
+        <gene id="1002000160" protId="sp|Q09907|NTH_SCHPO" />
+        <gene id="1002000161" protId="sp|Q10134|FEP1_SCHPO" />
+        <gene id="1002000162" protId="sp|Q10225|BTB3_SCHPO" />
+        <gene id="1002000163" protId="sp|Q10317|MED20_SCHPO" />
+        <gene id="1002000164" protId="sp|Q10323|IMT3_SCHPO" />
+        <gene id="1002000165" protId="sp|Q10342|SDA1_SCHPO" />
+        <gene id="1002000166" protId="sp|Q10668|SWI2_SCHPO" />
+        <gene id="1002000167" protId="sp|Q8TFG7|TRM5_SCHPO" />
+        <gene id="1002000168" protId="sp|Q92342|YDI4_SCHPO" />
+        <gene id="1002000169" protId="sp|Q92350|YDH5_SCHPO" />
+        <gene id="1002000170" protId="sp|Q92375|TRXB_SCHPO" />
+        <gene id="1002000171" protId="sp|Q9C0U3|MU153_SCHPO" />
+        <gene id="1002000172" protId="sp|Q9HEQ9|TCG1_SCHPO" />
+        <gene id="1002000173" protId="sp|Q9HGL9|WHI5_SCHPO" />
+        <gene id="1002000174" protId="sp|Q9P6R3|YOH7_SCHPO" />
+        <gene id="1002000175" protId="sp|Q9P792|YN8B_SCHPO" />
+        <gene id="1002000176" protId="sp|Q9P7B2|RS8B_SCHPO" />
+        <gene id="1002000177" protId="sp|Q9P7F1|YKK5_SCHPO" />
+        <gene id="1002000178" protId="sp|Q9P7J6|RS17B_SCHPO" />
+        <gene id="1002000179" protId="sp|Q9P7Q5|YFVA_SCHPO" />
+        <gene id="1002000180" protId="sp|Q9P7S3|SSR3_SCHPO" />
+        <gene id="1002000181" protId="sp|Q9P7U4|YI75_SCHPO" />
+        <gene id="1002000182" protId="sp|Q9URY1|PPK16_SCHPO" />
+        <gene id="1002000183" protId="sp|Q9URY8|SULH2_SCHPO" />
+        <gene id="1002000184" protId="sp|Q9US34|YFZ7_SCHPO" />
+        <gene id="1002000185" protId="sp|Q9US38|YFZ3_SCHPO" />
+        <gene id="1002000186" protId="sp|Q9US46|ITT1_SCHPO" />
+        <gene id="1002000187" protId="sp|Q9USN6|YJY3_SCHPO" />
+        <gene id="1002000188" protId="sp|Q9USN7|HST2_SCHPO" />
+        <gene id="1002000189" protId="sp|Q9USQ7|DPH6_SCHPO" />
+        <gene id="1002000190" protId="sp|Q9USS0|PNC1_SCHPO" />
+        <gene id="1002000191" protId="sp|Q9UT76|EI2BB_SCHPO" />
+        <gene id="1002000192" protId="sp|Q9UT97|PSA5_SCHPO" />
+        <gene id="1002000193" protId="sp|Q9UTG2|PUB2_SCHPO" />
+        <gene id="1002000194" protId="sp|Q9UTH9|DUS3_SCHPO" />
+        <gene id="1002000195" protId="sp|Q9UTI2|GLRX2_SCHPO" />
+        <gene id="1002000196" protId="sp|Q9UTS7|ASPG2_SCHPO" />
+        <gene id="1002000197" protId="sp|Q9UUF2|SYMC_SCHPO" />
+        <gene id="1002000198" protId="sp|Q9UUG9|TSC2_SCHPO" />
+        <gene id="1002000199" protId="sp|Q9Y7Q0|YQ66_SCHPO" />
+        <gene id="1002000200" protId="sp|Q9Y822|RM16_SCHPO" />
+        <gene id="1002000201" protId="sp|C6Y4D0|DPB3_SCHPO" />
+        <gene id="1002000202" protId="sp|G2TRK4|YI36_SCHPO" />
+        <gene id="1002000203" protId="sp|G2TRL7|SPD2_SCHPO" />
+        <gene id="1002000204" protId="sp|O13658|YBCB_SCHPO" />
+        <gene id="1002000205" protId="sp|O13776|FT105_SCHPO" />
+        <gene id="1002000206" protId="sp|O13813|TOM22_SCHPO" />
+        <gene id="1002000207" protId="sp|O13821|VPS27_SCHPO" />
+        <gene id="1002000208" protId="sp|O13844|YFG5_SCHPO" />
+        <gene id="1002000209" protId="sp|O13868|ELOF1_SCHPO" />
+        <gene id="1002000210" protId="sp|O13878|UTP17_SCHPO" />
+        <gene id="1002000211" protId="sp|O13983|HRQ1_SCHPO" />
+        <gene id="1002000212" protId="sp|O14028|MTQ1_SCHPO" />
+        <gene id="1002000213" protId="sp|O14046|VATO_SCHPO" />
+        <gene id="1002000214" protId="sp|O14073|YEA8_SCHPO" />
+        <gene id="1002000215" protId="sp|O14084|IMT1_SCHPO" />
+        <gene id="1002000216" protId="sp|O14137|G6PD3_SCHPO" />
+        <gene id="1002000217" protId="sp|O14241|ARPC2_SCHPO" />
+        <gene id="1002000218" protId="sp|O42650|RIO1_SCHPO" />
+        <gene id="1002000219" protId="sp|O42841|YFH2_SCHPO" />
+        <gene id="1002000220" protId="sp|O42978|LSM5_SCHPO" />
+        <gene id="1002000221" protId="sp|O43001|SYJ1_SCHPO" />
+        <gene id="1002000222" protId="sp|O43125|CSH3_SCHPO" />
+        <gene id="1002000223" protId="sp|O59714|YBH6_SCHPO" />
+        <gene id="1002000224" protId="sp|O59811|REI1_SCHPO" />
+        <gene id="1002000225" protId="sp|O59819|UGPA2_SCHPO" />
+        <gene id="1002000226" protId="sp|O60128|RS3_SCHPO" />
+        <gene id="1002000227" protId="sp|O74317|MUG98_SCHPO" />
+        <gene id="1002000228" protId="sp|O74389|MU176_SCHPO" />
+        <gene id="1002000229" protId="sp|O74521|YCPF_SCHPO" />
+        <gene id="1002000230" protId="sp|O74885|XANA_SCHPO" />
+        <gene id="1002000231" protId="sp|O74957|AGO1_SCHPO" />
+        <gene id="1002000232" protId="sp|O94248|MDN1_SCHPO" />
+        <gene id="1002000233" protId="sp|O94479|PFF1_SCHPO" />
+        <gene id="1002000234" protId="sp|O94614|CHR4_SCHPO" />
+        <gene id="1002000235" protId="sp|O94621|US109_SCHPO" />
+        <gene id="1002000236" protId="sp|O94686|RL43B_SCHPO" />
+        <gene id="1002000237" protId="sp|O94728|YG0G_SCHPO" />
+        <gene id="1002000238" protId="sp|P09322|H4_SCHPO" />
+        <gene id="1002000239" protId="sp|P0CT99|YP44_SCHPO" />
+        <gene id="1002000240" protId="sp|P19117|IPYR_SCHPO" />
+        <gene id="1002000241" protId="sp|P35551|FBRL_SCHPO" />
+        <gene id="1002000242" protId="sp|P36626|REC8_SCHPO" />
+        <gene id="1002000243" protId="sp|P40899|ISP3_SCHPO" />
+        <gene id="1002000244" protId="sp|P41411|CDC18_SCHPO" />
+        <gene id="1002000245" protId="sp|P46595|UBC4_SCHPO" />
+        <gene id="1002000246" protId="sp|P47943|IF4A_SCHPO" />
+        <gene id="1002000247" protId="sp|P50526|SSP1_SCHPO" />
+        <gene id="1002000248" protId="sp|P50998|AMPD_SCHPO" />
+        <gene id="1002000249" protId="sp|P79009|RS25A_SCHPO" />
+        <gene id="1002000250" protId="sp|P87145|VAC14_SCHPO" />
+        <gene id="1002000251" protId="sp|P87228|SERA_SCHPO" />
+        <gene id="1002000252" protId="sp|Q09676|YA03_SCHPO" />
+        <gene id="1002000253" protId="sp|Q09725|MIS4_SCHPO" />
+        <gene id="1002000254" protId="sp|Q09817|NMD3_SCHPO" />
+        <gene id="1002000255" protId="sp|Q09826|SDS23_SCHPO" />
+        <gene id="1002000256" protId="sp|Q10100|NTF2_SCHPO" />
+        <gene id="1002000257" protId="sp|Q10184|HIS4_SCHPO" />
+        <gene id="1002000258" protId="sp|Q10222|PTA1_SCHPO" />
+        <gene id="1002000259" protId="sp|Q10274|TEB1_SCHPO" />
+        <gene id="1002000260" protId="sp|Q10308|MUG43_SCHPO" />
+        <gene id="1002000261" protId="sp|Q10325|MST2_SCHPO" />
+        <gene id="1002000262" protId="sp|Q10334|ALAT_SCHPO" />
+        <gene id="1002000263" protId="sp|Q10446|YDED_SCHPO" />
+        <gene id="1002000264" protId="sp|Q10448|YDEF_SCHPO" />
+        <gene id="1002000265" protId="sp|Q10484|SCS22_SCHPO" />
+        <gene id="1002000266" protId="sp|Q12238|UVI31_SCHPO" />
+        <gene id="1002000267" protId="sp|Q1MTQ9|NIP7_SCHPO" />
+        <gene id="1002000268" protId="sp|Q7Z992|SST6_SCHPO" />
+        <gene id="1002000269" protId="sp|Q8WZJ8|RPC7_SCHPO" />
+        <gene id="1002000270" protId="sp|Q8WZK5|ALY1_SCHPO" />
+        <gene id="1002000271" protId="sp|Q92365|RL36A_SCHPO" />
+        <gene id="1002000272" protId="sp|Q92373|RFA2_SCHPO" />
+        <gene id="1002000273" protId="sp|Q9HDV8|YOE2_SCHPO" />
+        <gene id="1002000274" protId="sp|Q9P382|NUP82_SCHPO" />
+        <gene id="1002000275" protId="sp|Q9P3W6|YLI2_SCHPO" />
+        <gene id="1002000276" protId="sp|Q9P6K8|YLF3_SCHPO" />
+        <gene id="1002000277" protId="sp|Q9P6Q3|BCS1_SCHPO" />
+        <gene id="1002000278" protId="sp|Q9P7U3|YI76_SCHPO" />
+        <gene id="1002000279" protId="sp|Q9P7W1|YGQ9_SCHPO" />
+        <gene id="1002000280" protId="sp|Q9P7Z7|COX17_SCHPO" />
+        <gene id="1002000281" protId="sp|Q9UQW6|ERG10_SCHPO" />
+        <gene id="1002000282" protId="sp|Q9URZ1|PIMT_SCHPO" />
+        <gene id="1002000283" protId="sp|Q9URZ8|VATL2_SCHPO" />
+        <gene id="1002000284" protId="sp|Q9US01|YIRD_SCHPO" />
+        <gene id="1002000285" protId="sp|Q9US05|BFR2_SCHPO" />
+        <gene id="1002000286" protId="sp|Q9US39|YFZ2_SCHPO" />
+        <gene id="1002000287" protId="sp|Q9USH8|GLU2B_SCHPO" />
+        <gene id="1002000288" protId="sp|Q9UT03|SLS1_SCHPO" />
+        <gene id="1002000289" protId="sp|Q9UT23|MPH1_SCHPO" />
+        <gene id="1002000290" protId="sp|Q9UT53|NMAH_SCHPO" />
+        <gene id="1002000291" protId="sp|Q9UTE2|HEM6_SCHPO" />
+        <gene id="1002000292" protId="sp|Q9UTI4|MOA1_SCHPO" />
+        <gene id="1002000293" protId="sp|Q9UTJ7|SDHA_SCHPO" />
+        <gene id="1002000294" protId="sp|Q9UTL7|GPN2_SCHPO" />
+        <gene id="1002000295" protId="sp|Q9UTM7|HAT1_SCHPO" />
+        <gene id="1002000296" protId="sp|Q9UU79|NSA2_SCHPO" />
+        <gene id="1002000297" protId="sp|Q9UUG6|YFT2_SCHPO" />
+        <gene id="1002000298" protId="sp|Q9UUG8|TUP12_SCHPO" />
+        <gene id="1002000299" protId="sp|Q9Y7K8|UPPS_SCHPO" />
+        <gene id="1002000300" protId="sp|Q9Y7M7|MDL1_SCHPO" />
+        <gene id="1002000301" protId="sp|G2TRP3|RT31_SCHPO" />
+        <gene id="1002000302" protId="sp|G2TRR8|YP3A_SCHPO" />
+        <gene id="1002000303" protId="sp|O13686|WDR59_SCHPO" />
+        <gene id="1002000304" protId="sp|O13690|YDYB_SCHPO" />
+        <gene id="1002000305" protId="sp|O13740|MDE1_SCHPO" />
+        <gene id="1002000306" protId="sp|O13827|YEEB_SCHPO" />
+        <gene id="1002000307" protId="sp|O13867|UPP1_SCHPO" />
+        <gene id="1002000308" protId="sp|O13895|CSN4_SCHPO" />
+        <gene id="1002000309" protId="sp|O13961|NDC1_SCHPO" />
+        <gene id="1002000310" protId="sp|O14002|MAK2_SCHPO" />
+        <gene id="1002000311" protId="sp|O14082|YEAH_SCHPO" />
+        <gene id="1002000312" protId="sp|O14128|PIL2_SCHPO" />
+        <gene id="1002000313" protId="sp|O14145|TPS2_SCHPO" />
+        <gene id="1002000314" protId="sp|O14363|RL1A_SCHPO" />
+        <gene id="1002000315" protId="sp|O42866|FABG_SCHPO" />
+        <gene id="1002000316" protId="sp|O42967|YB92_SCHPO" />
+        <gene id="1002000317" protId="sp|O43048|YH51_SCHPO" />
+        <gene id="1002000318" protId="sp|O59709|GIT7_SCHPO" />
+        <gene id="1002000319" protId="sp|O59730|MAP1_SCHPO" />
+        <gene id="1002000320" protId="sp|O59783|YCN6_SCHPO" />
+        <gene id="1002000321" protId="sp|O74327|AVT5_SCHPO" />
+        <gene id="1002000322" protId="sp|O74348|YO88_SCHPO" />
+        <gene id="1002000323" protId="sp|O74384|ERFB_SCHPO" />
+        <gene id="1002000324" protId="sp|O74801|RL4P_SCHPO" />
+        <gene id="1002000325" protId="sp|O74825|RPB4_SCHPO" />
+        <gene id="1002000326" protId="sp|O74845|HIF2_SCHPO" />
+      </genes>
+    </database>
+  </species>
+  <species name="Sclerotinia_sclerotiorum" taxonId="8" NCBITaxId="0">
+    <database name="database" version="2023">
+      <genes>
+        <gene id="1003000001" protId="tr|A0A0K0PU07|A0A0K0PU07_SCLS1" />
+        <gene id="1003000002" protId="tr|A7E4C0|A7E4C0_SCLS1" />
+        <gene id="1003000003" protId="tr|A7E4J7|A7E4J7_SCLS1" />
+        <gene id="1003000004" protId="tr|A7E4L3|A7E4L3_SCLS1" />
+        <gene id="1003000005" protId="tr|A7E4M9|A7E4M9_SCLS1" />
+        <gene id="1003000006" protId="tr|A7E570|A7E570_SCLS1" />
+        <gene id="1003000007" protId="tr|A7E5J9|A7E5J9_SCLS1" />
+        <gene id="1003000008" protId="tr|A7E626|A7E626_SCLS1" />
+        <gene id="1003000009" protId="tr|A7E6D8|A7E6D8_SCLS1" />
+        <gene id="1003000010" protId="tr|A7E6H2|A7E6H2_SCLS1" />
+        <gene id="1003000011" protId="tr|A7E6P2|A7E6P2_SCLS1" />
+        <gene id="1003000012" protId="tr|A7E7P5|A7E7P5_SCLS1" />
+        <gene id="1003000013" protId="tr|A7E7V5|A7E7V5_SCLS1" />
+        <gene id="1003000014" protId="tr|A7E8T9|A7E8T9_SCLS1" />
+        <gene id="1003000015" protId="tr|A7E9A9|A7E9A9_SCLS1" />
+        <gene id="1003000016" protId="tr|A7E9J0|A7E9J0_SCLS1" />
+        <gene id="1003000017" protId="tr|A7EA25|A7EA25_SCLS1" />
+        <gene id="1003000018" protId="tr|A7EAJ5|A7EAJ5_SCLS1" />
+        <gene id="1003000019" protId="tr|A7EC17|A7EC17_SCLS1" />
+        <gene id="1003000020" protId="tr|A7ECB9|A7ECB9_SCLS1" />
+        <gene id="1003000021" protId="tr|A7ECD6|A7ECD6_SCLS1" />
+        <gene id="1003000022" protId="tr|A7EDM9|A7EDM9_SCLS1" />
+        <gene id="1003000023" protId="tr|A7EER2|A7EER2_SCLS1" />
+        <gene id="1003000024" protId="tr|A7EF23|A7EF23_SCLS1" />
+        <gene id="1003000025" protId="tr|A7EF64|A7EF64_SCLS1" />
+        <gene id="1003000026" protId="tr|A7EFB2|A7EFB2_SCLS1" />
+        <gene id="1003000027" protId="tr|A7EFD6|A7EFD6_SCLS1" />
+        <gene id="1003000028" protId="tr|A7EFJ5|A7EFJ5_SCLS1" />
+        <gene id="1003000029" protId="tr|A7EGH3|A7EGH3_SCLS1" />
+        <gene id="1003000030" protId="tr|A7EGW7|A7EGW7_SCLS1" />
+        <gene id="1003000031" protId="tr|A7EHB0|A7EHB0_SCLS1" />
+        <gene id="1003000032" protId="tr|A7EI03|A7EI03_SCLS1" />
+        <gene id="1003000033" protId="tr|A7EI50|A7EI50_SCLS1" />
+        <gene id="1003000034" protId="tr|A7EI73|A7EI73_SCLS1" />
+        <gene id="1003000035" protId="tr|A7EII8|A7EII8_SCLS1" />
+        <gene id="1003000036" protId="tr|A7EIM1|A7EIM1_SCLS1" />
+        <gene id="1003000037" protId="tr|A7EIZ3|A7EIZ3_SCLS1" />
+        <gene id="1003000038" protId="tr|A7EJ67|A7EJ67_SCLS1" />
+        <gene id="1003000039" protId="tr|A7EJN8|A7EJN8_SCLS1" />
+        <gene id="1003000040" protId="tr|A7EJW1|A7EJW1_SCLS1" />
+        <gene id="1003000041" protId="tr|A7EKB0|A7EKB0_SCLS1" />
+        <gene id="1003000042" protId="tr|A7EL73|A7EL73_SCLS1" />
+        <gene id="1003000043" protId="tr|A7ELA1|A7ELA1_SCLS1" />
+        <gene id="1003000044" protId="tr|A7ELY8|A7ELY8_SCLS1" />
+        <gene id="1003000045" protId="tr|A7EMK5|A7EMK5_SCLS1" />
+        <gene id="1003000046" protId="tr|A7EMR5|A7EMR5_SCLS1" />
+        <gene id="1003000047" protId="tr|A7EMS0|A7EMS0_SCLS1" />
+        <gene id="1003000048" protId="tr|A7ENC5|A7ENC5_SCLS1" />
+        <gene id="1003000049" protId="tr|A7EP07|A7EP07_SCLS1" />
+        <gene id="1003000050" protId="tr|A7EP59|A7EP59_SCLS1" />
+        <gene id="1003000051" protId="tr|A7EPE6|A7EPE6_SCLS1" />
+        <gene id="1003000052" protId="tr|A7EPJ9|A7EPJ9_SCLS1" />
+        <gene id="1003000053" protId="tr|A7EQ29|A7EQ29_SCLS1" />
+        <gene id="1003000054" protId="tr|A7EQ94|A7EQ94_SCLS1" />
+        <gene id="1003000055" protId="tr|A7EQA5|A7EQA5_SCLS1" />
+        <gene id="1003000056" protId="tr|A7EQL6|A7EQL6_SCLS1" />
+        <gene id="1003000057" protId="tr|A7EQZ6|A7EQZ6_SCLS1" />
+        <gene id="1003000058" protId="tr|A7ERI6|A7ERI6_SCLS1" />
+        <gene id="1003000059" protId="tr|A7ERR6|A7ERR6_SCLS1" />
+        <gene id="1003000060" protId="tr|A7ESR9|A7ESR9_SCLS1" />
+        <gene id="1003000061" protId="tr|A7ETG5|A7ETG5_SCLS1" />
+        <gene id="1003000062" protId="tr|A7ETU2|A7ETU2_SCLS1" />
+        <gene id="1003000063" protId="tr|A7ETU6|A7ETU6_SCLS1" />
+        <gene id="1003000064" protId="tr|A7EUU1|A7EUU1_SCLS1" />
+        <gene id="1003000065" protId="tr|A7EUV1|A7EUV1_SCLS1" />
+        <gene id="1003000066" protId="tr|A7EUY9|A7EUY9_SCLS1" />
+        <gene id="1003000067" protId="tr|A7EUZ6|A7EUZ6_SCLS1" />
+        <gene id="1003000068" protId="tr|A7EVP6|A7EVP6_SCLS1" />
+        <gene id="1003000069" protId="tr|A7EVS4|A7EVS4_SCLS1" />
+        <gene id="1003000070" protId="tr|A7EW40|A7EW40_SCLS1" />
+        <gene id="1003000071" protId="tr|A7EW46|A7EW46_SCLS1" />
+        <gene id="1003000072" protId="tr|A7EW62|A7EW62_SCLS1" />
+        <gene id="1003000073" protId="tr|A7EWG6|A7EWG6_SCLS1" />
+        <gene id="1003000074" protId="tr|A7EX53|A7EX53_SCLS1" />
+        <gene id="1003000075" protId="tr|A7EXS0|A7EXS0_SCLS1" />
+        <gene id="1003000076" protId="tr|A7EY65|A7EY65_SCLS1" />
+        <gene id="1003000077" protId="tr|A7EY69|A7EY69_SCLS1" />
+        <gene id="1003000078" protId="tr|A7EYA4|A7EYA4_SCLS1" />
+        <gene id="1003000079" protId="tr|A7EYL7|A7EYL7_SCLS1" />
+        <gene id="1003000080" protId="tr|A7EYX2|A7EYX2_SCLS1" />
+        <gene id="1003000081" protId="tr|A7EZC5|A7EZC5_SCLS1" />
+        <gene id="1003000082" protId="tr|A7F0Q9|A7F0Q9_SCLS1" />
+        <gene id="1003000083" protId="tr|A7F0T3|A7F0T3_SCLS1" />
+        <gene id="1003000084" protId="tr|A7F1R5|A7F1R5_SCLS1" />
+        <gene id="1003000085" protId="tr|A7F209|A7F209_SCLS1" />
+        <gene id="1003000086" protId="tr|A7F2S5|A7F2S5_SCLS1" />
+        <gene id="1003000087" protId="tr|A7F2U4|A7F2U4_SCLS1" />
+        <gene id="1003000088" protId="tr|A7F3A2|A7F3A2_SCLS1" />
+        <gene id="1003000089" protId="tr|A7F3B0|A7F3B0_SCLS1" />
+        <gene id="1003000090" protId="tr|A7F4G7|A7F4G7_SCLS1" />
+        <gene id="1003000091" protId="tr|A7F4H8|A7F4H8_SCLS1" />
+        <gene id="1003000092" protId="tr|A7F558|A7F558_SCLS1" />
+        <gene id="1003000093" protId="tr|A7F5M7|A7F5M7_SCLS1" />
+        <gene id="1003000094" protId="tr|A7F5S9|A7F5S9_SCLS1" />
+        <gene id="1003000095" protId="tr|A7F6N6|A7F6N6_SCLS1" />
+        <gene id="1003000096" protId="tr|A7F7B0|A7F7B0_SCLS1" />
+        <gene id="1003000097" protId="tr|A7F7M3|A7F7M3_SCLS1" />
+        <gene id="1003000098" protId="tr|A7F8B5|A7F8B5_SCLS1" />
+        <gene id="1003000099" protId="tr|A7F8H8|A7F8H8_SCLS1" />
+        <gene id="1003000100" protId="tr|A7F951|A7F951_SCLS1" />
+        <gene id="1003000101" protId="tr|A7E4Y7|A7E4Y7_SCLS1" />
+        <gene id="1003000102" protId="tr|A7E4Z0|A7E4Z0_SCLS1" />
+        <gene id="1003000103" protId="tr|A7E565|A7E565_SCLS1" />
+        <gene id="1003000104" protId="tr|A7E6R0|A7E6R0_SCLS1" />
+        <gene id="1003000105" protId="tr|A7E726|A7E726_SCLS1" />
+        <gene id="1003000106" protId="tr|A7E751|A7E751_SCLS1" />
+        <gene id="1003000107" protId="tr|A7E784|A7E784_SCLS1" />
+        <gene id="1003000108" protId="tr|A7E7G5|A7E7G5_SCLS1" />
+        <gene id="1003000109" protId="tr|A7E7I8|A7E7I8_SCLS1" />
+        <gene id="1003000110" protId="tr|A7E7M2|A7E7M2_SCLS1" />
+        <gene id="1003000111" protId="tr|A7E861|A7E861_SCLS1" />
+        <gene id="1003000112" protId="tr|A7E888|A7E888_SCLS1" />
+        <gene id="1003000113" protId="tr|A7E8B0|A7E8B0_SCLS1" />
+        <gene id="1003000114" protId="tr|A7E9X7|A7E9X7_SCLS1" />
+        <gene id="1003000115" protId="tr|A7E9Z6|A7E9Z6_SCLS1" />
+        <gene id="1003000116" protId="tr|A7EA41|A7EA41_SCLS1" />
+        <gene id="1003000117" protId="tr|A7EAK1|A7EAK1_SCLS1" />
+        <gene id="1003000118" protId="tr|A7EAX7|A7EAX7_SCLS1" />
+        <gene id="1003000119" protId="tr|A7EBD4|A7EBD4_SCLS1" />
+        <gene id="1003000120" protId="tr|A7EBW2|A7EBW2_SCLS1" />
+        <gene id="1003000121" protId="tr|A7ECC6|A7ECC6_SCLS1" />
+        <gene id="1003000122" protId="tr|A7ECQ6|A7ECQ6_SCLS1" />
+        <gene id="1003000123" protId="tr|A7ECX0|A7ECX0_SCLS1" />
+        <gene id="1003000124" protId="tr|A7ED47|A7ED47_SCLS1" />
+        <gene id="1003000125" protId="tr|A7EE16|A7EE16_SCLS1" />
+        <gene id="1003000126" protId="tr|A7EEF6|A7EEF6_SCLS1" />
+        <gene id="1003000127" protId="tr|A7EEG7|A7EEG7_SCLS1" />
+        <gene id="1003000128" protId="tr|A7EEY8|A7EEY8_SCLS1" />
+        <gene id="1003000129" protId="tr|A7EF24|A7EF24_SCLS1" />
+        <gene id="1003000130" protId="tr|A7EFL2|A7EFL2_SCLS1" />
+        <gene id="1003000131" protId="tr|A7EGP6|A7EGP6_SCLS1" />
+        <gene id="1003000132" protId="tr|A7EGT2|A7EGT2_SCLS1" />
+        <gene id="1003000133" protId="tr|A7EGZ6|A7EGZ6_SCLS1" />
+        <gene id="1003000134" protId="tr|A7EH19|A7EH19_SCLS1" />
+        <gene id="1003000135" protId="tr|A7EHC8|A7EHC8_SCLS1" />
+        <gene id="1003000136" protId="tr|A7EHI0|A7EHI0_SCLS1" />
+        <gene id="1003000137" protId="tr|A7EJA9|A7EJA9_SCLS1" />
+        <gene id="1003000138" protId="tr|A7EJE6|A7EJE6_SCLS1" />
+        <gene id="1003000139" protId="tr|A7EJX2|A7EJX2_SCLS1" />
+        <gene id="1003000140" protId="tr|A7EJZ8|A7EJZ8_SCLS1" />
+        <gene id="1003000141" protId="tr|A7EKN9|A7EKN9_SCLS1" />
+        <gene id="1003000142" protId="tr|A7EM04|A7EM04_SCLS1" />
+        <gene id="1003000143" protId="tr|A7EM51|A7EM51_SCLS1" />
+        <gene id="1003000144" protId="tr|A7EMF5|A7EMF5_SCLS1" />
+        <gene id="1003000145" protId="tr|A7EMG3|A7EMG3_SCLS1" />
+        <gene id="1003000146" protId="tr|A7ENM8|A7ENM8_SCLS1" />
+        <gene id="1003000147" protId="tr|A7ENU0|A7ENU0_SCLS1" />
+        <gene id="1003000148" protId="tr|A7EPK0|A7EPK0_SCLS1" />
+        <gene id="1003000149" protId="tr|A7EPR6|A7EPR6_SCLS1" />
+        <gene id="1003000150" protId="tr|A7EPU9|A7EPU9_SCLS1" />
+        <gene id="1003000151" protId="tr|A7EQ19|A7EQ19_SCLS1" />
+        <gene id="1003000152" protId="tr|A7EQP7|A7EQP7_SCLS1" />
+        <gene id="1003000153" protId="tr|A7ESG2|A7ESG2_SCLS1" />
+        <gene id="1003000154" protId="tr|A7ESH6|A7ESH6_SCLS1" />
+        <gene id="1003000155" protId="tr|A7EST9|A7EST9_SCLS1" />
+        <gene id="1003000156" protId="tr|A7ET32|A7ET32_SCLS1" />
+        <gene id="1003000157" protId="tr|A7ET74|A7ET74_SCLS1" />
+        <gene id="1003000158" protId="tr|A7EUA9|A7EUA9_SCLS1" />
+        <gene id="1003000159" protId="tr|A7EUG1|A7EUG1_SCLS1" />
+        <gene id="1003000160" protId="tr|A7EUM9|A7EUM9_SCLS1" />
+        <gene id="1003000161" protId="tr|A7EUW3|A7EUW3_SCLS1" />
+        <gene id="1003000162" protId="tr|A7EV55|A7EV55_SCLS1" />
+        <gene id="1003000163" protId="tr|A7EV57|A7EV57_SCLS1" />
+        <gene id="1003000164" protId="tr|A7EV80|A7EV80_SCLS1" />
+        <gene id="1003000165" protId="tr|A7EVF0|A7EVF0_SCLS1" />
+        <gene id="1003000166" protId="tr|A7EVH4|A7EVH4_SCLS1" />
+        <gene id="1003000167" protId="tr|A7EVN3|A7EVN3_SCLS1" />
+        <gene id="1003000168" protId="tr|A7EVN4|A7EVN4_SCLS1" />
+        <gene id="1003000169" protId="tr|A7EVQ6|A7EVQ6_SCLS1" />
+        <gene id="1003000170" protId="tr|A7EVW2|A7EVW2_SCLS1" />
+        <gene id="1003000171" protId="tr|A7EVX6|A7EVX6_SCLS1" />
+        <gene id="1003000172" protId="tr|A7EWA0|A7EWA0_SCLS1" />
+        <gene id="1003000173" protId="tr|A7EWD4|A7EWD4_SCLS1" />
+        <gene id="1003000174" protId="tr|A7EWF1|A7EWF1_SCLS1" />
+        <gene id="1003000175" protId="tr|A7EWR9|A7EWR9_SCLS1" />
+        <gene id="1003000176" protId="tr|A7EX35|A7EX35_SCLS1" />
+        <gene id="1003000177" protId="tr|A7EXW4|A7EXW4_SCLS1" />
+        <gene id="1003000178" protId="tr|A7EYK0|A7EYK0_SCLS1" />
+        <gene id="1003000179" protId="tr|A7EYS0|A7EYS0_SCLS1" />
+        <gene id="1003000180" protId="tr|A7EYT8|A7EYT8_SCLS1" />
+        <gene id="1003000181" protId="tr|A7EZB7|A7EZB7_SCLS1" />
+        <gene id="1003000182" protId="tr|A7F155|A7F155_SCLS1" />
+        <gene id="1003000183" protId="tr|A7F179|A7F179_SCLS1" />
+        <gene id="1003000184" protId="tr|A7F1I3|A7F1I3_SCLS1" />
+        <gene id="1003000185" protId="tr|A7F1M9|A7F1M9_SCLS1" />
+        <gene id="1003000186" protId="tr|A7F1X7|A7F1X7_SCLS1" />
+        <gene id="1003000187" protId="tr|A7F2G6|A7F2G6_SCLS1" />
+        <gene id="1003000188" protId="tr|A7F2P9|A7F2P9_SCLS1" />
+        <gene id="1003000189" protId="tr|A7F345|A7F345_SCLS1" />
+        <gene id="1003000190" protId="tr|A7F3P3|A7F3P3_SCLS1" />
+        <gene id="1003000191" protId="tr|A7F430|A7F430_SCLS1" />
+        <gene id="1003000192" protId="tr|A7F4H1|A7F4H1_SCLS1" />
+        <gene id="1003000193" protId="tr|A7F4J2|A7F4J2_SCLS1" />
+        <gene id="1003000194" protId="tr|A7F4U3|A7F4U3_SCLS1" />
+        <gene id="1003000195" protId="tr|A7F4Y7|A7F4Y7_SCLS1" />
+        <gene id="1003000196" protId="tr|A7F5Y6|A7F5Y6_SCLS1" />
+        <gene id="1003000197" protId="tr|A7F616|A7F616_SCLS1" />
+        <gene id="1003000198" protId="tr|A7F7W5|A7F7W5_SCLS1" />
+        <gene id="1003000199" protId="tr|A7F8N4|A7F8N4_SCLS1" />
+        <gene id="1003000200" protId="tr|A7FA18|A7FA18_SCLS1" />
+        <gene id="1003000201" protId="tr|A7E448|A7E448_SCLS1" />
+        <gene id="1003000202" protId="sp|A7E449|DBP2_SCLS1" />
+        <gene id="1003000203" protId="tr|A7E5C4|A7E5C4_SCLS1" />
+        <gene id="1003000204" protId="tr|A7E5N5|A7E5N5_SCLS1" />
+        <gene id="1003000205" protId="tr|A7E652|A7E652_SCLS1" />
+        <gene id="1003000206" protId="tr|A7E691|A7E691_SCLS1" />
+        <gene id="1003000207" protId="tr|A7E6N9|A7E6N9_SCLS1" />
+        <gene id="1003000208" protId="tr|A7E6S5|A7E6S5_SCLS1" />
+        <gene id="1003000209" protId="tr|A7E6Y3|A7E6Y3_SCLS1" />
+        <gene id="1003000210" protId="tr|A7E7G3|A7E7G3_SCLS1" />
+        <gene id="1003000211" protId="tr|A7E7W4|A7E7W4_SCLS1" />
+        <gene id="1003000212" protId="tr|A7E8M5|A7E8M5_SCLS1" />
+        <gene id="1003000213" protId="tr|A7E961|A7E961_SCLS1" />
+        <gene id="1003000214" protId="tr|A7E9C7|A7E9C7_SCLS1" />
+        <gene id="1003000215" protId="tr|A7EA16|A7EA16_SCLS1" />
+        <gene id="1003000216" protId="tr|A7EAQ8|A7EAQ8_SCLS1" />
+        <gene id="1003000217" protId="tr|A7EAZ0|A7EAZ0_SCLS1" />
+        <gene id="1003000218" protId="tr|A7EB68|A7EB68_SCLS1" />
+        <gene id="1003000219" protId="tr|A7EBB4|A7EBB4_SCLS1" />
+        <gene id="1003000220" protId="tr|A7EBC3|A7EBC3_SCLS1" />
+        <gene id="1003000221" protId="tr|A7EBC5|A7EBC5_SCLS1" />
+        <gene id="1003000222" protId="tr|A7EBI6|A7EBI6_SCLS1" />
+        <gene id="1003000223" protId="tr|A7EBX7|A7EBX7_SCLS1" />
+        <gene id="1003000224" protId="tr|A7ECQ2|A7ECQ2_SCLS1" />
+        <gene id="1003000225" protId="tr|A7ECZ3|A7ECZ3_SCLS1" />
+        <gene id="1003000226" protId="tr|A7EDT5|A7EDT5_SCLS1" />
+        <gene id="1003000227" protId="tr|A7EE31|A7EE31_SCLS1" />
+        <gene id="1003000228" protId="tr|A7EE54|A7EE54_SCLS1" />
+        <gene id="1003000229" protId="tr|A7EEM1|A7EEM1_SCLS1" />
+        <gene id="1003000230" protId="tr|A7EG50|A7EG50_SCLS1" />
+        <gene id="1003000231" protId="tr|A7EGG7|A7EGG7_SCLS1" />
+        <gene id="1003000232" protId="tr|A7EGH0|A7EGH0_SCLS1" />
+        <gene id="1003000233" protId="tr|A7EGI7|A7EGI7_SCLS1" />
+        <gene id="1003000234" protId="tr|A7EGU3|A7EGU3_SCLS1" />
+        <gene id="1003000235" protId="tr|A7EHJ6|A7EHJ6_SCLS1" />
+        <gene id="1003000236" protId="tr|A7EI26|A7EI26_SCLS1" />
+        <gene id="1003000237" protId="tr|A7EIC6|A7EIC6_SCLS1" />
+        <gene id="1003000238" protId="tr|A7EIT3|A7EIT3_SCLS1" />
+        <gene id="1003000239" protId="tr|A7EK28|A7EK28_SCLS1" />
+        <gene id="1003000240" protId="tr|A7EKF7|A7EKF7_SCLS1" />
+        <gene id="1003000241" protId="tr|A7EKH4|A7EKH4_SCLS1" />
+        <gene id="1003000242" protId="tr|A7EKS3|A7EKS3_SCLS1" />
+        <gene id="1003000243" protId="tr|A7ELI8|A7ELI8_SCLS1" />
+        <gene id="1003000244" protId="tr|A7EMF6|A7EMF6_SCLS1" />
+        <gene id="1003000245" protId="tr|A7EN02|A7EN02_SCLS1" />
+        <gene id="1003000246" protId="tr|A7EN69|A7EN69_SCLS1" />
+        <gene id="1003000247" protId="tr|A7ENV1|A7ENV1_SCLS1" />
+        <gene id="1003000248" protId="tr|A7EQ72|A7EQ72_SCLS1" />
+        <gene id="1003000249" protId="tr|A7EQI1|A7EQI1_SCLS1" />
+        <gene id="1003000250" protId="tr|A7EQT1|A7EQT1_SCLS1" />
+        <gene id="1003000251" protId="tr|A7EQV1|A7EQV1_SCLS1" />
+        <gene id="1003000252" protId="tr|A7ER12|A7ER12_SCLS1" />
+        <gene id="1003000253" protId="tr|A7ER35|A7ER35_SCLS1" />
+        <gene id="1003000254" protId="tr|A7ERC2|A7ERC2_SCLS1" />
+        <gene id="1003000255" protId="sp|A7ERK2|COG6_SCLS1" />
+        <gene id="1003000256" protId="tr|A7ERY2|A7ERY2_SCLS1" />
+        <gene id="1003000257" protId="tr|A7ES25|A7ES25_SCLS1" />
+        <gene id="1003000258" protId="tr|A7ESC7|A7ESC7_SCLS1" />
+        <gene id="1003000259" protId="tr|A7EST8|A7EST8_SCLS1" />
+        <gene id="1003000260" protId="tr|A7ET09|A7ET09_SCLS1" />
+        <gene id="1003000261" protId="tr|A7ETR3|A7ETR3_SCLS1" />
+        <gene id="1003000262" protId="tr|A7ETZ6|A7ETZ6_SCLS1" />
+        <gene id="1003000263" protId="tr|A7EU16|A7EU16_SCLS1" />
+        <gene id="1003000264" protId="tr|A7EUE3|A7EUE3_SCLS1" />
+        <gene id="1003000265" protId="tr|A7EUP6|A7EUP6_SCLS1" />
+        <gene id="1003000266" protId="tr|A7EV19|A7EV19_SCLS1" />
+        <gene id="1003000267" protId="tr|A7EWC1|A7EWC1_SCLS1" />
+        <gene id="1003000268" protId="tr|A7EWP5|A7EWP5_SCLS1" />
+        <gene id="1003000269" protId="tr|A7EX03|A7EX03_SCLS1" />
+        <gene id="1003000270" protId="tr|A7EXE7|A7EXE7_SCLS1" />
+        <gene id="1003000271" protId="tr|A7EXZ5|A7EXZ5_SCLS1" />
+        <gene id="1003000272" protId="tr|A7EYH2|A7EYH2_SCLS1" />
+        <gene id="1003000273" protId="tr|A7EYH4|A7EYH4_SCLS1" />
+        <gene id="1003000274" protId="tr|A7EYR7|A7EYR7_SCLS1" />
+        <gene id="1003000275" protId="tr|A7EYS1|A7EYS1_SCLS1" />
+        <gene id="1003000276" protId="tr|A7EYU8|A7EYU8_SCLS1" />
+        <gene id="1003000277" protId="tr|A7EZQ2|A7EZQ2_SCLS1" />
+        <gene id="1003000278" protId="tr|A7F009|A7F009_SCLS1" />
+        <gene id="1003000279" protId="tr|A7F043|A7F043_SCLS1" />
+        <gene id="1003000280" protId="tr|A7F0E0|A7F0E0_SCLS1" />
+        <gene id="1003000281" protId="tr|A7F0K7|A7F0K7_SCLS1" />
+        <gene id="1003000282" protId="tr|A7F0U1|A7F0U1_SCLS1" />
+        <gene id="1003000283" protId="tr|A7F0X6|A7F0X6_SCLS1" />
+        <gene id="1003000284" protId="tr|A7F103|A7F103_SCLS1" />
+        <gene id="1003000285" protId="tr|A7F1P4|A7F1P4_SCLS1" />
+        <gene id="1003000286" protId="tr|A7F1Y4|A7F1Y4_SCLS1" />
+        <gene id="1003000287" protId="tr|A7F2C4|A7F2C4_SCLS1" />
+        <gene id="1003000288" protId="tr|A7F317|A7F317_SCLS1" />
+        <gene id="1003000289" protId="tr|A7F3B2|A7F3B2_SCLS1" />
+        <gene id="1003000290" protId="tr|A7F3N2|A7F3N2_SCLS1" />
+        <gene id="1003000291" protId="tr|A7F4W8|A7F4W8_SCLS1" />
+        <gene id="1003000292" protId="tr|A7F5A9|A7F5A9_SCLS1" />
+        <gene id="1003000293" protId="tr|A7F5Y7|A7F5Y7_SCLS1" />
+        <gene id="1003000294" protId="tr|A7F618|A7F618_SCLS1" />
+        <gene id="1003000295" protId="tr|A7F6W6|A7F6W6_SCLS1" />
+        <gene id="1003000296" protId="tr|A7F759|A7F759_SCLS1" />
+        <gene id="1003000297" protId="tr|A7F7S1|A7F7S1_SCLS1" />
+        <gene id="1003000298" protId="tr|A7F7T7|A7F7T7_SCLS1" />
+        <gene id="1003000299" protId="tr|A7F8H0|A7F8H0_SCLS1" />
+        <gene id="1003000300" protId="tr|A7F929|A7F929_SCLS1" />
+        <gene id="1003000301" protId="tr|A7E475|A7E475_SCLS1" />
+        <gene id="1003000302" protId="tr|A7E4N5|A7E4N5_SCLS1" />
+        <gene id="1003000303" protId="tr|A7E4Q7|A7E4Q7_SCLS1" />
+        <gene id="1003000304" protId="tr|A7E4S7|A7E4S7_SCLS1" />
+        <gene id="1003000305" protId="tr|A7E6J1|A7E6J1_SCLS1" />
+        <gene id="1003000306" protId="tr|A7E6Q2|A7E6Q2_SCLS1" />
+        <gene id="1003000307" protId="tr|A7E7S1|A7E7S1_SCLS1" />
+        <gene id="1003000308" protId="tr|A7E7X5|A7E7X5_SCLS1" />
+        <gene id="1003000309" protId="tr|A7E835|A7E835_SCLS1" />
+        <gene id="1003000310" protId="tr|A7E8N2|A7E8N2_SCLS1" />
+        <gene id="1003000311" protId="tr|A7E994|A7E994_SCLS1" />
+        <gene id="1003000312" protId="tr|A7E9H7|A7E9H7_SCLS1" />
+        <gene id="1003000313" protId="tr|A7E9K1|A7E9K1_SCLS1" />
+        <gene id="1003000314" protId="tr|A7EA49|A7EA49_SCLS1" />
+        <gene id="1003000315" protId="tr|A7EA70|A7EA70_SCLS1" />
+        <gene id="1003000316" protId="tr|A7EAB0|A7EAB0_SCLS1" />
+        <gene id="1003000317" protId="tr|A7EAH0|A7EAH0_SCLS1" />
+        <gene id="1003000318" protId="tr|A7EAZ1|A7EAZ1_SCLS1" />
+        <gene id="1003000319" protId="tr|A7EB00|A7EB00_SCLS1" />
+        <gene id="1003000320" protId="tr|A7EBF9|A7EBF9_SCLS1" />
+        <gene id="1003000321" protId="tr|A7EC42|A7EC42_SCLS1" />
+        <gene id="1003000322" protId="tr|A7EC87|A7EC87_SCLS1" />
+        <gene id="1003000323" protId="tr|A7ECC0|A7ECC0_SCLS1" />
+        <gene id="1003000324" protId="tr|A7ECE7|A7ECE7_SCLS1" />
+        <gene id="1003000325" protId="tr|A7ECG2|A7ECG2_SCLS1" />
+        <gene id="1003000326" protId="tr|A7ECH9|A7ECH9_SCLS1" />
+        <gene id="1003000327" protId="tr|A7ECV6|A7ECV6_SCLS1" />
+        <gene id="1003000328" protId="tr|A7ED78|A7ED78_SCLS1" />
+        <gene id="1003000329" protId="tr|A7ED93|A7ED93_SCLS1" />
+        <gene id="1003000330" protId="tr|A7EDK7|A7EDK7_SCLS1" />
+        <gene id="1003000331" protId="tr|A7EDR4|A7EDR4_SCLS1" />
+        <gene id="1003000332" protId="tr|A7EDX3|A7EDX3_SCLS1" />
+        <gene id="1003000333" protId="tr|A7EEC0|A7EEC0_SCLS1" />
+        <gene id="1003000334" protId="tr|A7EFA1|A7EFA1_SCLS1" />
+        <gene id="1003000335" protId="tr|A7EFE5|A7EFE5_SCLS1" />
+        <gene id="1003000336" protId="tr|A7EFP8|A7EFP8_SCLS1" />
+        <gene id="1003000337" protId="tr|A7EFR0|A7EFR0_SCLS1" />
+        <gene id="1003000338" protId="tr|A7EFX9|A7EFX9_SCLS1" />
+        <gene id="1003000339" protId="tr|A7EGI9|A7EGI9_SCLS1" />
+        <gene id="1003000340" protId="tr|A7EGL0|A7EGL0_SCLS1" />
+        <gene id="1003000341" protId="tr|A7EH24|A7EH24_SCLS1" />
+        <gene id="1003000342" protId="tr|A7EHI9|A7EHI9_SCLS1" />
+        <gene id="1003000343" protId="tr|A7EIV2|A7EIV2_SCLS1" />
+        <gene id="1003000344" protId="tr|A7EJ02|A7EJ02_SCLS1" />
+        <gene id="1003000345" protId="tr|A7EJB3|A7EJB3_SCLS1" />
+        <gene id="1003000346" protId="tr|A7EJS7|A7EJS7_SCLS1" />
+        <gene id="1003000347" protId="tr|A7EJV2|A7EJV2_SCLS1" />
+        <gene id="1003000348" protId="tr|A7EKW4|A7EKW4_SCLS1" />
+        <gene id="1003000349" protId="tr|A7EN36|A7EN36_SCLS1" />
+        <gene id="1003000350" protId="tr|A7ENB2|A7ENB2_SCLS1" />
+        <gene id="1003000351" protId="tr|A7EP65|A7EP65_SCLS1" />
+        <gene id="1003000352" protId="tr|A7EQC8|A7EQC8_SCLS1" />
+        <gene id="1003000353" protId="tr|A7ER78|A7ER78_SCLS1" />
+        <gene id="1003000354" protId="tr|A7ERY3|A7ERY3_SCLS1" />
+        <gene id="1003000355" protId="tr|A7ET51|A7ET51_SCLS1" />
+        <gene id="1003000356" protId="tr|A7ETE2|A7ETE2_SCLS1" />
+        <gene id="1003000357" protId="tr|A7ETW1|A7ETW1_SCLS1" />
+        <gene id="1003000358" protId="tr|A7EU04|A7EU04_SCLS1" />
+        <gene id="1003000359" protId="tr|A7EU38|A7EU38_SCLS1" />
+        <gene id="1003000360" protId="tr|A7EU92|A7EU92_SCLS1" />
+        <gene id="1003000361" protId="tr|A7EUI3|A7EUI3_SCLS1" />
+        <gene id="1003000362" protId="tr|A7EUW6|A7EUW6_SCLS1" />
+        <gene id="1003000363" protId="sp|A7EVV6|PTF_SCLS1" />
+        <gene id="1003000364" protId="tr|A7EWB7|A7EWB7_SCLS1" />
+        <gene id="1003000365" protId="tr|A7EWE9|A7EWE9_SCLS1" />
+        <gene id="1003000366" protId="tr|A7EX63|A7EX63_SCLS1" />
+        <gene id="1003000367" protId="tr|A7EZ74|A7EZ74_SCLS1" />
+        <gene id="1003000368" protId="tr|A7EZB4|A7EZB4_SCLS1" />
+        <gene id="1003000369" protId="tr|A7F031|A7F031_SCLS1" />
+        <gene id="1003000370" protId="tr|A7F0B5|A7F0B5_SCLS1" />
+        <gene id="1003000371" protId="tr|A7F0D6|A7F0D6_SCLS1" />
+        <gene id="1003000372" protId="tr|A7F0L5|A7F0L5_SCLS1" />
+        <gene id="1003000373" protId="tr|A7F159|A7F159_SCLS1" />
+        <gene id="1003000374" protId="tr|A7F1F2|A7F1F2_SCLS1" />
+        <gene id="1003000375" protId="tr|A7F2K1|A7F2K1_SCLS1" />
+        <gene id="1003000376" protId="tr|A7F2W6|A7F2W6_SCLS1" />
+        <gene id="1003000377" protId="tr|A7F2Y6|A7F2Y6_SCLS1" />
+        <gene id="1003000378" protId="tr|A7F336|A7F336_SCLS1" />
+        <gene id="1003000379" protId="tr|A7F339|A7F339_SCLS1" />
+        <gene id="1003000380" protId="tr|A7F373|A7F373_SCLS1" />
+        <gene id="1003000381" protId="tr|A7F3G2|A7F3G2_SCLS1" />
+        <gene id="1003000382" protId="tr|A7F3Q5|A7F3Q5_SCLS1" />
+        <gene id="1003000383" protId="tr|A7F3X7|A7F3X7_SCLS1" />
+        <gene id="1003000384" protId="tr|A7F4U6|A7F4U6_SCLS1" />
+        <gene id="1003000385" protId="tr|A7F5A4|A7F5A4_SCLS1" />
+        <gene id="1003000386" protId="tr|A7F5W5|A7F5W5_SCLS1" />
+        <gene id="1003000387" protId="tr|A7F6A3|A7F6A3_SCLS1" />
+        <gene id="1003000388" protId="tr|A7F758|A7F758_SCLS1" />
+        <gene id="1003000389" protId="tr|A7F762|A7F762_SCLS1" />
+        <gene id="1003000390" protId="tr|A7F7A2|A7F7A2_SCLS1" />
+        <gene id="1003000391" protId="tr|A7F7M6|A7F7M6_SCLS1" />
+        <gene id="1003000392" protId="tr|A7F7R6|A7F7R6_SCLS1" />
+        <gene id="1003000393" protId="tr|A7F7T2|A7F7T2_SCLS1" />
+        <gene id="1003000394" protId="tr|A7F8D6|A7F8D6_SCLS1" />
+        <gene id="1003000395" protId="tr|A7F8N0|A7F8N0_SCLS1" />
+        <gene id="1003000396" protId="tr|A7F8W3|A7F8W3_SCLS1" />
+        <gene id="1003000397" protId="tr|A7F9K0|A7F9K0_SCLS1" />
+        <gene id="1003000398" protId="tr|A7F9M4|A7F9M4_SCLS1" />
+        <gene id="1003000399" protId="tr|A7F9P5|A7F9P5_SCLS1" />
+        <gene id="1003000400" protId="sp|A7F9Y3|S2538_SCLS1" />
+        <gene id="1003000401" protId="tr|A7E3Z6|A7E3Z6_SCLS1" />
+        <gene id="1003000402" protId="tr|A7E4H1|A7E4H1_SCLS1" />
+        <gene id="1003000403" protId="tr|A7E4T6|A7E4T6_SCLS1" />
+        <gene id="1003000404" protId="tr|A7E4Z4|A7E4Z4_SCLS1" />
+        <gene id="1003000405" protId="tr|A7E523|A7E523_SCLS1" />
+        <gene id="1003000406" protId="tr|A7E5J2|A7E5J2_SCLS1" />
+        <gene id="1003000407" protId="tr|A7E783|A7E783_SCLS1" />
+        <gene id="1003000408" protId="tr|A7E7H0|A7E7H0_SCLS1" />
+        <gene id="1003000409" protId="tr|A7E7U8|A7E7U8_SCLS1" />
+        <gene id="1003000410" protId="tr|A7E838|A7E838_SCLS1" />
+        <gene id="1003000411" protId="tr|A7E874|A7E874_SCLS1" />
+        <gene id="1003000412" protId="tr|A7E8H5|A7E8H5_SCLS1" />
+        <gene id="1003000413" protId="tr|A7E9S3|A7E9S3_SCLS1" />
+        <gene id="1003000414" protId="tr|A7EA28|A7EA28_SCLS1" />
+        <gene id="1003000415" protId="tr|A7EAM0|A7EAM0_SCLS1" />
+        <gene id="1003000416" protId="tr|A7EAQ0|A7EAQ0_SCLS1" />
+        <gene id="1003000417" protId="tr|A7EAX8|A7EAX8_SCLS1" />
+        <gene id="1003000418" protId="tr|A7EBX6|A7EBX6_SCLS1" />
+        <gene id="1003000419" protId="tr|A7EC77|A7EC77_SCLS1" />
+        <gene id="1003000420" protId="tr|A7EC99|A7EC99_SCLS1" />
+        <gene id="1003000421" protId="tr|A7ECD7|A7ECD7_SCLS1" />
+        <gene id="1003000422" protId="tr|A7ECQ8|A7ECQ8_SCLS1" />
+        <gene id="1003000423" protId="tr|A7ECY1|A7ECY1_SCLS1" />
+        <gene id="1003000424" protId="tr|A7EDQ1|A7EDQ1_SCLS1" />
+        <gene id="1003000425" protId="tr|A7EDQ4|A7EDQ4_SCLS1" />
+        <gene id="1003000426" protId="tr|A7EEH1|A7EEH1_SCLS1" />
+        <gene id="1003000427" protId="tr|A7EEW0|A7EEW0_SCLS1" />
+        <gene id="1003000428" protId="tr|A7EGP0|A7EGP0_SCLS1" />
+        <gene id="1003000429" protId="tr|A7EH05|A7EH05_SCLS1" />
+        <gene id="1003000430" protId="tr|A7EH40|A7EH40_SCLS1" />
+        <gene id="1003000431" protId="tr|A7EH44|A7EH44_SCLS1" />
+        <gene id="1003000432" protId="tr|A7EH52|A7EH52_SCLS1" />
+        <gene id="1003000433" protId="tr|A7EI89|A7EI89_SCLS1" />
+      </genes>
+    </database>
+  </species>
+  <species name="Yarrowia_lipolytica" taxonId="4" NCBITaxId="0">
+    <database name="database" version="2023">
+      <genes>
+        <gene id="1004000001" protId="tr|B5RSK9|B5RSK9_YARLI" />
+        <gene id="1004000002" protId="tr|F2Z6F1|F2Z6F1_YARLI" />
+        <gene id="1004000003" protId="sp|P36966|PEX6_YARLI" />
+        <gene id="1004000004" protId="tr|Q6BZU0|Q6BZU0_YARLI" />
+        <gene id="1004000005" protId="tr|Q6C018|Q6C018_YARLI" />
+        <gene id="1004000006" protId="tr|Q6C0B4|Q6C0B4_YARLI" />
+        <gene id="1004000007" protId="tr|Q6C0N4|Q6C0N4_YARLI" />
+        <gene id="1004000008" protId="tr|Q6C0W5|Q6C0W5_YARLI" />
+        <gene id="1004000009" protId="tr|Q6C151|Q6C151_YARLI" />
+        <gene id="1004000010" protId="tr|Q6C1B2|Q6C1B2_YARLI" />
+        <gene id="1004000011" protId="tr|Q6C1G5|Q6C1G5_YARLI" />
+        <gene id="1004000012" protId="tr|Q6C1L0|Q6C1L0_YARLI" />
+        <gene id="1004000013" protId="sp|Q6C1N1|EIF3D_YARLI" />
+        <gene id="1004000014" protId="tr|Q6C1P1|Q6C1P1_YARLI" />
+        <gene id="1004000015" protId="tr|Q6C1T0|Q6C1T0_YARLI" />
+        <gene id="1004000016" protId="tr|Q6C1X0|Q6C1X0_YARLI" />
+        <gene id="1004000017" protId="tr|Q6C206|Q6C206_YARLI" />
+        <gene id="1004000018" protId="tr|Q6C263|Q6C263_YARLI" />
+        <gene id="1004000019" protId="tr|Q6C296|Q6C296_YARLI" />
+        <gene id="1004000020" protId="tr|Q6C2R6|Q6C2R6_YARLI" />
+        <gene id="1004000021" protId="tr|Q6C388|Q6C388_YARLI" />
+        <gene id="1004000022" protId="tr|Q6C3L9|Q6C3L9_YARLI" />
+        <gene id="1004000023" protId="tr|Q6C3P6|Q6C3P6_YARLI" />
+        <gene id="1004000024" protId="tr|Q6C3S2|Q6C3S2_YARLI" />
+        <gene id="1004000025" protId="sp|Q6C4C9|FKBP3_YARLI" />
+        <gene id="1004000026" protId="tr|Q6C4F7|Q6C4F7_YARLI" />
+        <gene id="1004000027" protId="tr|Q6C4H8|Q6C4H8_YARLI" />
+        <gene id="1004000028" protId="tr|Q6C4U3|Q6C4U3_YARLI" />
+        <gene id="1004000029" protId="sp|Q6C4U7|RL30_YARLI" />
+        <gene id="1004000030" protId="tr|Q6C560|Q6C560_YARLI" />
+        <gene id="1004000031" protId="tr|Q6C581|Q6C581_YARLI" />
+        <gene id="1004000032" protId="tr|Q6C596|Q6C596_YARLI" />
+        <gene id="1004000033" protId="tr|Q6C5A7|Q6C5A7_YARLI" />
+        <gene id="1004000034" protId="tr|Q6C5K3|Q6C5K3_YARLI" />
+        <gene id="1004000035" protId="tr|Q6C5M4|Q6C5M4_YARLI" />
+        <gene id="1004000036" protId="tr|Q6C5R6|Q6C5R6_YARLI" />
+        <gene id="1004000037" protId="sp|Q6C656|CSM3_YARLI" />
+        <gene id="1004000038" protId="tr|Q6C658|Q6C658_YARLI" />
+        <gene id="1004000039" protId="tr|Q6C685|Q6C685_YARLI" />
+        <gene id="1004000040" protId="tr|Q6C693|Q6C693_YARLI" />
+        <gene id="1004000041" protId="sp|Q6C6M5|DPB3_YARLI" />
+        <gene id="1004000042" protId="tr|Q6C6S2|Q6C6S2_YARLI" />
+        <gene id="1004000043" protId="tr|Q6C6T0|Q6C6T0_YARLI" />
+        <gene id="1004000044" protId="tr|Q6C6X2|Q6C6X2_YARLI" />
+        <gene id="1004000045" protId="tr|Q6C735|Q6C735_YARLI" />
+        <gene id="1004000046" protId="tr|Q6C773|Q6C773_YARLI" />
+        <gene id="1004000047" protId="sp|Q6C7D6|ATP25_YARLI" />
+        <gene id="1004000048" protId="tr|Q6C7X9|Q6C7X9_YARLI" />
+        <gene id="1004000049" protId="tr|Q6C812|Q6C812_YARLI" />
+        <gene id="1004000050" protId="sp|Q6C818|RSA3_YARLI" />
+        <gene id="1004000051" protId="tr|Q6C856|Q6C856_YARLI" />
+        <gene id="1004000052" protId="tr|Q6C864|Q6C864_YARLI" />
+        <gene id="1004000053" protId="sp|Q6C872|ETT1_YARLI" />
+        <gene id="1004000054" protId="sp|Q6C880|SEC22_YARLI" />
+        <gene id="1004000055" protId="tr|Q6C8K8|Q6C8K8_YARLI" />
+        <gene id="1004000056" protId="sp|Q6C982|ARP6_YARLI" />
+        <gene id="1004000057" protId="tr|Q6C9L6|Q6C9L6_YARLI" />
+        <gene id="1004000058" protId="tr|Q6C9L9|Q6C9L9_YARLI" />
+        <gene id="1004000059" protId="tr|Q6C9X3|Q6C9X3_YARLI" />
+        <gene id="1004000060" protId="tr|Q6C9Z4|Q6C9Z4_YARLI" />
+        <gene id="1004000061" protId="tr|Q6CA00|Q6CA00_YARLI" />
+        <gene id="1004000062" protId="sp|Q6CA86|NCB5R_YARLI" />
+        <gene id="1004000063" protId="tr|Q6CA88|Q6CA88_YARLI" />
+        <gene id="1004000064" protId="sp|Q6CAC5|SHO1_YARLI" />
+        <gene id="1004000065" protId="tr|Q6CAK2|Q6CAK2_YARLI" />
+        <gene id="1004000066" protId="tr|Q6CAL0|Q6CAL0_YARLI" />
+        <gene id="1004000067" protId="tr|Q6CBG2|Q6CBG2_YARLI" />
+        <gene id="1004000068" protId="tr|Q6CBH8|Q6CBH8_YARLI" />
+        <gene id="1004000069" protId="tr|Q6CBT9|Q6CBT9_YARLI" />
+        <gene id="1004000070" protId="sp|Q6CC70|EXO70_YARLI" />
+        <gene id="1004000071" protId="tr|Q6CCI2|Q6CCI2_YARLI" />
+        <gene id="1004000072" protId="tr|Q6CCV5|Q6CCV5_YARLI" />
+        <gene id="1004000073" protId="tr|Q6CCW7|Q6CCW7_YARLI" />
+        <gene id="1004000074" protId="tr|Q6CD03|Q6CD03_YARLI" />
+        <gene id="1004000075" protId="tr|Q6CD60|Q6CD60_YARLI" />
+        <gene id="1004000076" protId="tr|Q6CDL6|Q6CDL6_YARLI" />
+        <gene id="1004000077" protId="tr|Q6CDQ2|Q6CDQ2_YARLI" />
+        <gene id="1004000078" protId="tr|Q6CE73|Q6CE73_YARLI" />
+        <gene id="1004000079" protId="tr|Q6CEB9|Q6CEB9_YARLI" />
+        <gene id="1004000080" protId="tr|Q6CEP5|Q6CEP5_YARLI" />
+        <gene id="1004000081" protId="sp|Q6CEW9|MRD1_YARLI" />
+        <gene id="1004000082" protId="tr|Q6CF13|Q6CF13_YARLI" />
+        <gene id="1004000083" protId="tr|Q6CF16|Q6CF16_YARLI" />
+        <gene id="1004000084" protId="tr|Q6CF37|Q6CF37_YARLI" />
+        <gene id="1004000085" protId="tr|Q6CFM9|Q6CFM9_YARLI" />
+        <gene id="1004000086" protId="tr|Q6CFZ0|Q6CFZ0_YARLI" />
+        <gene id="1004000087" protId="sp|Q6CG56|DHYS_YARLI" />
+        <gene id="1004000088" protId="tr|Q6CG66|Q6CG66_YARLI" />
+        <gene id="1004000089" protId="tr|Q6CGF0|Q6CGF0_YARLI" />
+        <gene id="1004000090" protId="tr|Q6CGR2|Q6CGR2_YARLI" />
+        <gene id="1004000091" protId="tr|Q6CGT6|Q6CGT6_YARLI" />
+        <gene id="1004000092" protId="tr|Q6CGX8|Q6CGX8_YARLI" />
+        <gene id="1004000093" protId="tr|Q6CH72|Q6CH72_YARLI" />
+        <gene id="1004000094" protId="tr|Q6CHA1|Q6CHA1_YARLI" />
+        <gene id="1004000095" protId="tr|Q6CHH1|Q6CHH1_YARLI" />
+        <gene id="1004000096" protId="sp|Q6CHN0|SLA1_YARLI" />
+        <gene id="1004000097" protId="sp|Q6CHN5|POA1_YARLI" />
+        <gene id="1004000098" protId="sp|Q6CHU5|NPC2_YARLI" />
+        <gene id="1004000099" protId="tr|Q6CI09|Q6CI09_YARLI" />
+        <gene id="1004000100" protId="sp|Q9B6C8|NU2M_YARLI" />
+        <gene id="1004000101" protId="tr|B5RSL5|B5RSL5_YARLI" />
+        <gene id="1004000102" protId="sp|P09379|GYP7_YARLI" />
+        <gene id="1004000103" protId="sp|Q6BZR4|DBP9_YARLI" />
+        <gene id="1004000104" protId="tr|Q6BZS3|Q6BZS3_YARLI" />
+        <gene id="1004000105" protId="tr|Q6C009|Q6C009_YARLI" />
+        <gene id="1004000106" protId="tr|Q6C016|Q6C016_YARLI" />
+        <gene id="1004000107" protId="tr|Q6C0A3|Q6C0A3_YARLI" />
+        <gene id="1004000108" protId="tr|Q6C0C8|Q6C0C8_YARLI" />
+        <gene id="1004000109" protId="tr|Q6C0D3|Q6C0D3_YARLI" />
+        <gene id="1004000110" protId="tr|Q6C0D4|Q6C0D4_YARLI" />
+        <gene id="1004000111" protId="tr|Q6C0J1|Q6C0J1_YARLI" />
+        <gene id="1004000112" protId="tr|Q6C0Q1|Q6C0Q1_YARLI" />
+        <gene id="1004000113" protId="tr|Q6C0T7|Q6C0T7_YARLI" />
+        <gene id="1004000114" protId="tr|Q6C181|Q6C181_YARLI" />
+        <gene id="1004000115" protId="tr|Q6C1E7|Q6C1E7_YARLI" />
+        <gene id="1004000116" protId="tr|Q6C1G1|Q6C1G1_YARLI" />
+        <gene id="1004000117" protId="tr|Q6C1I8|Q6C1I8_YARLI" />
+        <gene id="1004000118" protId="tr|Q6C1M0|Q6C1M0_YARLI" />
+        <gene id="1004000119" protId="tr|Q6C1N9|Q6C1N9_YARLI" />
+        <gene id="1004000120" protId="tr|Q6C1T6|Q6C1T6_YARLI" />
+        <gene id="1004000121" protId="tr|Q6C1W2|Q6C1W2_YARLI" />
+        <gene id="1004000122" protId="tr|Q6C283|Q6C283_YARLI" />
+        <gene id="1004000123" protId="tr|Q6C2Q6|Q6C2Q6_YARLI" />
+        <gene id="1004000124" protId="tr|Q6C2S7|Q6C2S7_YARLI" />
+        <gene id="1004000125" protId="sp|Q6C347|FAL1_YARLI" />
+        <gene id="1004000126" protId="tr|Q6C3A0|Q6C3A0_YARLI" />
+        <gene id="1004000127" protId="tr|Q6C3S9|Q6C3S9_YARLI" />
+        <gene id="1004000128" protId="tr|Q6C3Y3|Q6C3Y3_YARLI" />
+        <gene id="1004000129" protId="sp|Q6C423|JHD1_YARLI" />
+        <gene id="1004000130" protId="tr|Q6C466|Q6C466_YARLI" />
+        <gene id="1004000131" protId="tr|Q6C490|Q6C490_YARLI" />
+        <gene id="1004000132" protId="sp|Q6C4M9|HOG1_YARLI" />
+        <gene id="1004000133" protId="tr|Q6C4P7|Q6C4P7_YARLI" />
+        <gene id="1004000134" protId="tr|Q6C4S6|Q6C4S6_YARLI" />
+        <gene id="1004000135" protId="tr|Q6C4Y9|Q6C4Y9_YARLI" />
+        <gene id="1004000136" protId="tr|Q6C527|Q6C527_YARLI" />
+        <gene id="1004000137" protId="tr|Q6C5A8|Q6C5A8_YARLI" />
+        <gene id="1004000138" protId="tr|Q6C5G6|Q6C5G6_YARLI" />
+        <gene id="1004000139" protId="tr|Q6C5K6|Q6C5K6_YARLI" />
+        <gene id="1004000140" protId="sp|Q6C5L5|SEC23_YARLI" />
+        <gene id="1004000141" protId="tr|Q6C609|Q6C609_YARLI" />
+        <gene id="1004000142" protId="tr|Q6C625|Q6C625_YARLI" />
+        <gene id="1004000143" protId="tr|Q6C653|Q6C653_YARLI" />
+        <gene id="1004000144" protId="tr|Q6C6E4|Q6C6E4_YARLI" />
+        <gene id="1004000145" protId="tr|Q6C6Q4|Q6C6Q4_YARLI" />
+        <gene id="1004000146" protId="sp|Q6C6S3|RFT1_YARLI" />
+        <gene id="1004000147" protId="tr|Q6C6Y6|Q6C6Y6_YARLI" />
+        <gene id="1004000148" protId="tr|Q6C753|Q6C753_YARLI" />
+        <gene id="1004000149" protId="sp|Q6C799|DBP8_YARLI" />
+        <gene id="1004000150" protId="tr|Q6C7H7|Q6C7H7_YARLI" />
+        <gene id="1004000151" protId="sp|Q6C7V4|POB3_YARLI" />
+        <gene id="1004000152" protId="sp|Q6C855|EIF3C_YARLI" />
+        <gene id="1004000153" protId="tr|Q6C8C1|Q6C8C1_YARLI" />
+        <gene id="1004000154" protId="tr|Q6C8G1|Q6C8G1_YARLI" />
+        <gene id="1004000155" protId="tr|Q6C8L6|Q6C8L6_YARLI" />
+        <gene id="1004000156" protId="tr|Q6C8S4|Q6C8S4_YARLI" />
+        <gene id="1004000157" protId="tr|Q6C911|Q6C911_YARLI" />
+        <gene id="1004000158" protId="tr|Q6C9B5|Q6C9B5_YARLI" />
+        <gene id="1004000159" protId="tr|Q6C9H1|Q6C9H1_YARLI" />
+        <gene id="1004000160" protId="tr|Q6C9J6|Q6C9J6_YARLI" />
+        <gene id="1004000161" protId="tr|Q6C9P7|Q6C9P7_YARLI" />
+        <gene id="1004000162" protId="tr|Q6C9Y8|Q6C9Y8_YARLI" />
+        <gene id="1004000163" protId="tr|Q6CA56|Q6CA56_YARLI" />
+        <gene id="1004000164" protId="tr|Q6CAV9|Q6CAV9_YARLI" />
+        <gene id="1004000165" protId="tr|Q6CAY4|Q6CAY4_YARLI" />
+        <gene id="1004000166" protId="tr|Q6CAZ9|Q6CAZ9_YARLI" />
+        <gene id="1004000167" protId="tr|Q6CBB9|Q6CBB9_YARLI" />
+        <gene id="1004000168" protId="tr|Q6CBF6|Q6CBF6_YARLI" />
+        <gene id="1004000169" protId="tr|Q6CBL6|Q6CBL6_YARLI" />
+        <gene id="1004000170" protId="tr|Q6CBM2|Q6CBM2_YARLI" />
+        <gene id="1004000171" protId="tr|Q6CC71|Q6CC71_YARLI" />
+        <gene id="1004000172" protId="tr|Q6CCH7|Q6CCH7_YARLI" />
+        <gene id="1004000173" protId="tr|Q6CCL4|Q6CCL4_YARLI" />
+        <gene id="1004000174" protId="tr|Q6CCX3|Q6CCX3_YARLI" />
+        <gene id="1004000175" protId="tr|Q6CCY8|Q6CCY8_YARLI" />
+        <gene id="1004000176" protId="sp|Q6CCZ5|KAE1_YARLI" />
+        <gene id="1004000177" protId="tr|Q6CD69|Q6CD69_YARLI" />
+        <gene id="1004000178" protId="tr|Q6CDI3|Q6CDI3_YARLI" />
+        <gene id="1004000179" protId="tr|Q6CDR7|Q6CDR7_YARLI" />
+        <gene id="1004000180" protId="tr|Q6CDX2|Q6CDX2_YARLI" />
+        <gene id="1004000181" protId="tr|Q6CEL0|Q6CEL0_YARLI" />
+        <gene id="1004000182" protId="tr|Q6CER0|Q6CER0_YARLI" />
+        <gene id="1004000183" protId="tr|Q6CF19|Q6CF19_YARLI" />
+        <gene id="1004000184" protId="tr|Q6CF51|Q6CF51_YARLI" />
+        <gene id="1004000185" protId="tr|Q6CFI2|Q6CFI2_YARLI" />
+        <gene id="1004000186" protId="tr|Q6CFL3|Q6CFL3_YARLI" />
+        <gene id="1004000187" protId="tr|Q6CFV6|Q6CFV6_YARLI" />
+        <gene id="1004000188" protId="tr|Q6CG03|Q6CG03_YARLI" />
+        <gene id="1004000189" protId="tr|Q6CGK0|Q6CGK0_YARLI" />
+        <gene id="1004000190" protId="tr|Q6CGL1|Q6CGL1_YARLI" />
+        <gene id="1004000191" protId="tr|Q6CH49|Q6CH49_YARLI" />
+        <gene id="1004000192" protId="tr|Q6CHL4|Q6CHL4_YARLI" />
+        <gene id="1004000193" protId="tr|Q6CHY1|Q6CHY1_YARLI" />
+        <gene id="1004000194" protId="tr|Q6CI19|Q6CI19_YARLI" />
+        <gene id="1004000195" protId="tr|Q6CI38|Q6CI38_YARLI" />
+        <gene id="1004000196" protId="tr|Q6CI51|Q6CI51_YARLI" />
+        <gene id="1004000197" protId="tr|Q6CI60|Q6CI60_YARLI" />
+        <gene id="1004000198" protId="sp|Q99144|PEX5_YARLI" />
+        <gene id="1004000199" protId="sp|Q9B6E7|COX1_YARLI" />
+        <gene id="1004000200" protId="tr|W0TYM7|W0TYM7_YARLI" />
+        <gene id="1004000201" protId="tr|B5FVE4|B5FVE4_YARLI" />
+        <gene id="1004000202" protId="sp|B5FVG3|ATPJ_YARLI" />
+        <gene id="1004000203" protId="tr|B5FVH3|B5FVH3_YARLI" />
+        <gene id="1004000204" protId="sp|P30614|KPYK_YARLI" />
+        <gene id="1004000205" protId="tr|Q6BZQ2|Q6BZQ2_YARLI" />
+        <gene id="1004000206" protId="tr|Q6BZV5|Q6BZV5_YARLI" />
+        <gene id="1004000207" protId="tr|Q6C0G2|Q6C0G2_YARLI" />
+        <gene id="1004000208" protId="tr|Q6C0I9|Q6C0I9_YARLI" />
+        <gene id="1004000209" protId="tr|Q6C0L9|Q6C0L9_YARLI" />
+        <gene id="1004000210" protId="tr|Q6C0M3|Q6C0M3_YARLI" />
+        <gene id="1004000211" protId="tr|Q6C0X9|Q6C0X9_YARLI" />
+        <gene id="1004000212" protId="tr|Q6C145|Q6C145_YARLI" />
+        <gene id="1004000213" protId="sp|Q6C187|BBP_YARLI" />
+        <gene id="1004000214" protId="tr|Q6C1S7|Q6C1S7_YARLI" />
+        <gene id="1004000215" protId="tr|Q6C1V9|Q6C1V9_YARLI" />
+        <gene id="1004000216" protId="tr|Q6C262|Q6C262_YARLI" />
+        <gene id="1004000217" protId="sp|Q6C2N7|ATG15_YARLI" />
+        <gene id="1004000218" protId="tr|Q6C2R1|Q6C2R1_YARLI" />
+        <gene id="1004000219" protId="tr|Q6C2V7|Q6C2V7_YARLI" />
+        <gene id="1004000220" protId="tr|Q6C3I1|Q6C3I1_YARLI" />
+        <gene id="1004000221" protId="sp|Q6C3P1|ALG13_YARLI" />
+        <gene id="1004000222" protId="tr|Q6C432|Q6C432_YARLI" />
+        <gene id="1004000223" protId="sp|Q6C457|UTP10_YARLI" />
+        <gene id="1004000224" protId="tr|Q6C4D2|Q6C4D2_YARLI" />
+        <gene id="1004000225" protId="sp|Q6C4D4|DBP2_YARLI" />
+        <gene id="1004000226" protId="tr|Q6C538|Q6C538_YARLI" />
+        <gene id="1004000227" protId="tr|Q6C579|Q6C579_YARLI" />
+        <gene id="1004000228" protId="tr|Q6C5B1|Q6C5B1_YARLI" />
+        <gene id="1004000229" protId="tr|Q6C5H3|Q6C5H3_YARLI" />
+        <gene id="1004000230" protId="tr|Q6C651|Q6C651_YARLI" />
+        <gene id="1004000231" protId="tr|Q6C678|Q6C678_YARLI" />
+        <gene id="1004000232" protId="tr|Q6C6A7|Q6C6A7_YARLI" />
+        <gene id="1004000233" protId="tr|Q6C6A8|Q6C6A8_YARLI" />
+        <gene id="1004000234" protId="tr|Q6C6C7|Q6C6C7_YARLI" />
+        <gene id="1004000235" protId="tr|Q6C6I2|Q6C6I2_YARLI" />
+        <gene id="1004000236" protId="tr|Q6C6J5|Q6C6J5_YARLI" />
+        <gene id="1004000237" protId="tr|Q6C6U0|Q6C6U0_YARLI" />
+        <gene id="1004000238" protId="tr|Q6C6V3|Q6C6V3_YARLI" />
+        <gene id="1004000239" protId="tr|Q6C6W4|Q6C6W4_YARLI" />
+        <gene id="1004000240" protId="tr|Q6C7F5|Q6C7F5_YARLI" />
+        <gene id="1004000241" protId="tr|Q6C7J0|Q6C7J0_YARLI" />
+        <gene id="1004000242" protId="tr|Q6C7N5|Q6C7N5_YARLI" />
+        <gene id="1004000243" protId="tr|Q6C7S4|Q6C7S4_YARLI" />
+        <gene id="1004000244" protId="sp|Q6C7S6|DTD_YARLI" />
+        <gene id="1004000245" protId="tr|Q6C7W6|Q6C7W6_YARLI" />
+        <gene id="1004000246" protId="tr|Q6C833|Q6C833_YARLI" />
+        <gene id="1004000247" protId="tr|Q6C845|Q6C845_YARLI" />
+        <gene id="1004000248" protId="tr|Q6C8A2|Q6C8A2_YARLI" />
+        <gene id="1004000249" protId="tr|Q6C8A6|Q6C8A6_YARLI" />
+        <gene id="1004000250" protId="tr|Q6C8X4|Q6C8X4_YARLI" />
+        <gene id="1004000251" protId="tr|Q6C954|Q6C954_YARLI" />
+        <gene id="1004000252" protId="sp|Q6C9T3|ALG11_YARLI" />
+        <gene id="1004000253" protId="tr|Q6CAE5|Q6CAE5_YARLI" />
+        <gene id="1004000254" protId="tr|Q6CAK3|Q6CAK3_YARLI" />
+        <gene id="1004000255" protId="tr|Q6CAM4|Q6CAM4_YARLI" />
+        <gene id="1004000256" protId="sp|Q6CB30|RTC5_YARLI" />
+        <gene id="1004000257" protId="tr|Q6CB40|Q6CB40_YARLI" />
+        <gene id="1004000258" protId="tr|Q6CB61|Q6CB61_YARLI" />
+        <gene id="1004000259" protId="tr|Q6CB94|Q6CB94_YARLI" />
+        <gene id="1004000260" protId="tr|Q6CBA6|Q6CBA6_YARLI" />
+        <gene id="1004000261" protId="tr|Q6CBB2|Q6CBB2_YARLI" />
+        <gene id="1004000262" protId="tr|Q6CBD7|Q6CBD7_YARLI" />
+        <gene id="1004000263" protId="tr|Q6CBS8|Q6CBS8_YARLI" />
+        <gene id="1004000264" protId="tr|Q6CBZ3|Q6CBZ3_YARLI" />
+        <gene id="1004000265" protId="tr|Q6CC29|Q6CC29_YARLI" />
+        <gene id="1004000266" protId="tr|Q6CC66|Q6CC66_YARLI" />
+        <gene id="1004000267" protId="tr|Q6CC87|Q6CC87_YARLI" />
+        <gene id="1004000268" protId="tr|Q6CCJ0|Q6CCJ0_YARLI" />
+        <gene id="1004000269" protId="tr|Q6CCS7|Q6CCS7_YARLI" />
+        <gene id="1004000270" protId="tr|Q6CCY6|Q6CCY6_YARLI" />
+        <gene id="1004000271" protId="tr|Q6CD19|Q6CD19_YARLI" />
+        <gene id="1004000272" protId="tr|Q6CD84|Q6CD84_YARLI" />
+        <gene id="1004000273" protId="tr|Q6CDH5|Q6CDH5_YARLI" />
+        <gene id="1004000274" protId="tr|Q6CDP5|Q6CDP5_YARLI" />
+        <gene id="1004000275" protId="tr|Q6CDQ6|Q6CDQ6_YARLI" />
+        <gene id="1004000276" protId="tr|Q6CDU8|Q6CDU8_YARLI" />
+        <gene id="1004000277" protId="tr|Q6CE11|Q6CE11_YARLI" />
+        <gene id="1004000278" protId="tr|Q6CEG3|Q6CEG3_YARLI" />
+        <gene id="1004000279" protId="tr|Q6CEP3|Q6CEP3_YARLI" />
+        <gene id="1004000280" protId="tr|Q6CET9|Q6CET9_YARLI" />
+        <gene id="1004000281" protId="tr|Q6CEU4|Q6CEU4_YARLI" />
+        <gene id="1004000282" protId="tr|Q6CEZ0|Q6CEZ0_YARLI" />
+        <gene id="1004000283" protId="tr|Q6CF08|Q6CF08_YARLI" />
+        <gene id="1004000284" protId="tr|Q6CFB0|Q6CFB0_YARLI" />
+        <gene id="1004000285" protId="tr|Q6CFB9|Q6CFB9_YARLI" />
+        <gene id="1004000286" protId="tr|Q6CFD7|Q6CFD7_YARLI" />
+        <gene id="1004000287" protId="tr|Q6CFK1|Q6CFK1_YARLI" />
+        <gene id="1004000288" protId="tr|Q6CFP6|Q6CFP6_YARLI" />
+        <gene id="1004000289" protId="tr|Q6CG12|Q6CG12_YARLI" />
+        <gene id="1004000290" protId="tr|Q6CG32|Q6CG32_YARLI" />
+        <gene id="1004000291" protId="tr|Q6CGH0|Q6CGH0_YARLI" />
+        <gene id="1004000292" protId="tr|Q6CGV8|Q6CGV8_YARLI" />
+        <gene id="1004000293" protId="tr|Q6CHH7|Q6CHH7_YARLI" />
+        <gene id="1004000294" protId="tr|Q6CHL6|Q6CHL6_YARLI" />
+        <gene id="1004000295" protId="sp|Q6CHP5|GBG_YARLI" />
+        <gene id="1004000296" protId="tr|Q6CI37|Q6CI37_YARLI" />
+        <gene id="1004000297" protId="sp|Q99170|BIP_YARLI" />
+        <gene id="1004000298" protId="tr|W0TYM0|W0TYM0_YARLI" />
+        <gene id="1004000299" protId="tr|W0TYP9|W0TYP9_YARLI" />
+        <gene id="1004000300" protId="tr|W0TYQ1|W0TYQ1_YARLI" />
+        <gene id="1004000301" protId="tr|B5FVC0|B5FVC0_YARLI" />
+        <gene id="1004000302" protId="tr|F2Z6D8|F2Z6D8_YARLI" />
+        <gene id="1004000303" protId="sp|P38997|LYS1_YARLI" />
+        <gene id="1004000304" protId="tr|Q6BZV0|Q6BZV0_YARLI" />
+        <gene id="1004000305" protId="tr|Q6BZW2|Q6BZW2_YARLI" />
+        <gene id="1004000306" protId="tr|Q6C002|Q6C002_YARLI" />
+        <gene id="1004000307" protId="sp|Q6C022|MED17_YARLI" />
+        <gene id="1004000308" protId="tr|Q6C027|Q6C027_YARLI" />
+        <gene id="1004000309" protId="tr|Q6C086|Q6C086_YARLI" />
+        <gene id="1004000310" protId="tr|Q6C0N6|Q6C0N6_YARLI" />
+        <gene id="1004000311" protId="tr|Q6C0Y4|Q6C0Y4_YARLI" />
+        <gene id="1004000312" protId="tr|Q6C166|Q6C166_YARLI" />
+        <gene id="1004000313" protId="sp|Q6C1B5|TFB5_YARLI" />
+        <gene id="1004000314" protId="tr|Q6C1C3|Q6C1C3_YARLI" />
+        <gene id="1004000315" protId="tr|Q6C1R5|Q6C1R5_YARLI" />
+        <gene id="1004000316" protId="tr|Q6C1X6|Q6C1X6_YARLI" />
+        <gene id="1004000317" protId="sp|Q6C229|SRB8_YARLI" />
+        <gene id="1004000318" protId="tr|Q6C243|Q6C243_YARLI" />
+        <gene id="1004000319" protId="tr|Q6C247|Q6C247_YARLI" />
+        <gene id="1004000320" protId="tr|Q6C2A5|Q6C2A5_YARLI" />
+        <gene id="1004000321" protId="tr|Q6C2R4|Q6C2R4_YARLI" />
+        <gene id="1004000322" protId="tr|Q6C2Y3|Q6C2Y3_YARLI" />
+        <gene id="1004000323" protId="tr|Q6C333|Q6C333_YARLI" />
+        <gene id="1004000324" protId="tr|Q6C339|Q6C339_YARLI" />
+        <gene id="1004000325" protId="tr|Q6C385|Q6C385_YARLI" />
+      </genes>
+    </database>
+  </species>
+  <taxonomy>
+    <taxon id="1" name="Ascomycota">
+      <taxon id="2" name="Saccharomyceta">
+        <taxon id="3" name="Saccharomycetales">
+          <taxon id="4" name="Yarrowia_lipolytica" />
+          <taxon id="5" name="Saccharomyces_cerevisiae" />
+        </taxon>
+        <taxon id="6" name="Leotiomyceta">
+          <taxon id="7" name="Neosartorya_fumigata" />
+          <taxon id="8" name="Sclerotinia_sclerotiorum" />
+        </taxon>
+      </taxon>
+      <taxon id="9" name="Schizosaccharomyces_pombe" />
+    </taxon>
+  </taxonomy>
+  <scores>
+    <scoreDef id="CompletenessScore" desc="Fraction of expected species with genes in the (Sub)HOG" />
+  </scores>
+  <groups>
+    <orthologGroup id="HOG:0000001_1" taxonId="1">
+      <score id="CompletenessScore" value="0.6" />
+      <property name="OMAmerRootHOG" value="HOG:D0679329" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000001_3" taxonId="3">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomycetales" />
+        <geneRef id="1001000014" />
+        <geneRef id="1004000132" />
+      </orthologGroup>
+      <geneRef id="1002000159" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000002_1" taxonId="1">
+      <property name="TaxRange" value="Ascomycota" />
+      <property name="OMAmerRootHOG" value="HOG:D0679329" />
+      <paralogGroup>
+        <geneRef id="1000000114" />
+        <geneRef id="1003000255" />
+      </paralogGroup>
+    </orthologGroup>
+    <orthologGroup id="HOG:0000003_1" taxonId="1">
+      <property name="TaxRange" value="Ascomycota" />
+      <property name="OMAmerRootHOG" value="HOG:D0679329" />
+      <paralogGroup>
+        <orthologGroup id="HOG:0000003.1a_2" taxonId="2">
+          <score id="CompletenessScore" value="0.5" />
+          <property name="TaxRange" value="Saccharomyceta" />
+          <geneRef id="1000000168" />
+          <geneRef id="1004000149" />
+        </orthologGroup>
+        <orthologGroup id="HOG:0000003.1b_2" taxonId="2">
+          <score id="CompletenessScore" value="0.75" />
+          <property name="TaxRange" value="Saccharomyceta" />
+          <geneRef id="1003000202" />
+          <orthologGroup id="HOG:0000003.1b_3" taxonId="3">
+            <score id="CompletenessScore" value="1.0" />
+            <property name="TaxRange" value="Saccharomycetales" />
+            <geneRef id="1001000114" />
+            <geneRef id="1004000225" />
+          </orthologGroup>
+        </orthologGroup>
+      </paralogGroup>
+    </orthologGroup>
+    <orthologGroup id="HOG:0000004_1" taxonId="1">
+      <property name="TaxRange" value="Ascomycota" />
+      <property name="OMAmerRootHOG" value="HOG:D0679329" />
+      <paralogGroup>
+        <geneRef id="1003000366" />
+        <geneRef id="1001000075" />
+      </paralogGroup>
+    </orthologGroup>
+    <orthologGroup id="HOG:0000005_1" taxonId="1">
+      <property name="TaxRange" value="Ascomycota" />
+      <property name="OMAmerRootHOG" value="HOG:D0679329" />
+      <paralogGroup>
+        <geneRef id="1004000100" />
+        <geneRef id="1003000042" />
+      </paralogGroup>
+    </orthologGroup>
+    <orthologGroup id="HOG:0000006_1" taxonId="1">
+      <score id="CompletenessScore" value="0.6" />
+      <property name="OMAmerRootHOG" value="HOG:D0679329" />
+      <property name="TaxRange" value="Ascomycota" />
+      <paralogGroup>
+        <paralogGroup>
+          <geneRef id="1004000135" />
+          <geneRef id="1004000025" />
+        </paralogGroup>
+        <paralogGroup>
+          <geneRef id="1004000011" />
+          <geneRef id="1001000244" />
+        </paralogGroup>
+      </paralogGroup>
+      <geneRef id="1002000106" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000007_1" taxonId="1">
+      <score id="CompletenessScore" value="0.4" />
+      <property name="OMAmerRootHOG" value="HOG:D0679329" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1001000028" />
+      <geneRef id="1002000205" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000008_1" taxonId="1">
+      <score id="CompletenessScore" value="0.4" />
+      <property name="OMAmerRootHOG" value="HOG:D0679329" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1001000120" />
+      <geneRef id="1002000275" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000009_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679409" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000009_2" taxonId="2">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomyceta" />
+        <paralogGroup>
+          <geneRef id="1000000132" />
+          <orthologGroup id="HOG:0000009.1b_6" taxonId="6">
+            <score id="CompletenessScore" value="1.0" />
+            <property name="TaxRange" value="Leotiomyceta" />
+            <geneRef id="1000000252" />
+            <geneRef id="1003000122" />
+          </orthologGroup>
+          <geneRef id="1000000158" />
+        </paralogGroup>
+        <geneRef id="1004000292" />
+      </orthologGroup>
+      <paralogGroup>
+        <geneRef id="1002000023" />
+        <geneRef id="1002000004" />
+      </paralogGroup>
+    </orthologGroup>
+    <orthologGroup id="HOG:0000010_1" taxonId="1">
+      <score id="CompletenessScore" value="0.75" />
+      <property name="OMAmerRootHOG" value="HOG:D0354301" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000010_3" taxonId="3">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomycetales" />
+        <geneRef id="1001000001" />
+        <paralogGroup>
+          <geneRef id="1004000321" />
+          <geneRef id="1004000319" />
+        </paralogGroup>
+      </orthologGroup>
+      <geneRef id="1002000177" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000011_1" taxonId="1">
+      <score id="CompletenessScore" value="0.5" />
+      <property name="OMAmerRootHOG" value="HOG:D0354301" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1003000219" />
+      <geneRef id="1002000273" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000012_1" taxonId="1">
+      <score id="CompletenessScore" value="0.6667" />
+      <property name="OMAmerRootHOG" value="HOG:D0679551" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1001000245" />
+      <geneRef id="1002000120" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000013_3" taxonId="3">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679551" />
+      <property name="TaxRange" value="Saccharomycetales" />
+      <geneRef id="1001000195" />
+      <geneRef id="1004000298" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000014_1" taxonId="1">
+      <property name="TaxRange" value="Ascomycota" />
+      <property name="OMAmerRootHOG" value="HOG:D0679380" />
+      <paralogGroup>
+        <geneRef id="1000000025" />
+        <geneRef id="1003000063" />
+      </paralogGroup>
+    </orthologGroup>
+    <orthologGroup id="HOG:0000015_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679380" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000015_2" taxonId="2">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomyceta" />
+        <orthologGroup id="HOG:0000015_6" taxonId="6">
+          <score id="CompletenessScore" value="1.0" />
+          <property name="TaxRange" value="Leotiomyceta" />
+          <geneRef id="1000000066" />
+          <geneRef id="1003000416" />
+        </orthologGroup>
+        <geneRef id="1004000205" />
+      </orthologGroup>
+      <geneRef id="1002000300" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000016_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0682494" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000016_2" taxonId="2">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomyceta" />
+        <orthologGroup id="HOG:0000016_6" taxonId="6">
+          <score id="CompletenessScore" value="1.0" />
+          <property name="TaxRange" value="Leotiomyceta" />
+          <geneRef id="1000000064" />
+          <geneRef id="1003000056" />
+        </orthologGroup>
+        <paralogGroup>
+          <geneRef id="1001000141" />
+          <geneRef id="1001000047" />
+        </paralogGroup>
+      </orthologGroup>
+      <geneRef id="1002000047" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000017_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0428681" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000262" />
+      <paralogGroup>
+        <orthologGroup id="HOG:0000017.1a_3" taxonId="3">
+          <score id="CompletenessScore" value="1.0" />
+          <property name="TaxRange" value="Saccharomycetales" />
+          <geneRef id="1001000179" />
+          <geneRef id="1004000177" />
+        </orthologGroup>
+        <geneRef id="1004000142" />
+      </paralogGroup>
+    </orthologGroup>
+    <orthologGroup id="HOG:0000018_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0385663" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000245" />
+      <geneRef id="1004000275" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000019_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0385663" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000139" />
+      <geneRef id="1004000014" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000020_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0671237" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000020_2" taxonId="2">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomyceta" />
+        <geneRef id="1003000027" />
+        <geneRef id="1004000165" />
+      </orthologGroup>
+      <geneRef id="1002000111" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000021_3" taxonId="3">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679387" />
+      <property name="TaxRange" value="Saccharomycetales" />
+      <geneRef id="1001000280" />
+      <geneRef id="1004000280" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000022_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679766" />
+      <property name="TaxRange" value="Ascomycota" />
+      <paralogGroup>
+        <orthologGroup id="HOG:0000022.1a_2" taxonId="2">
+          <score id="CompletenessScore" value="1.0" />
+          <property name="TaxRange" value="Saccharomyceta" />
+          <orthologGroup id="HOG:0000022.1a_6" taxonId="6">
+            <score id="CompletenessScore" value="1.0" />
+            <property name="TaxRange" value="Leotiomyceta" />
+            <geneRef id="1000000023" />
+            <geneRef id="1003000075" />
+          </orthologGroup>
+          <geneRef id="1001000101" />
+        </orthologGroup>
+        <geneRef id="1001000037" />
+      </paralogGroup>
+      <geneRef id="1002000072" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000023_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0430488" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000049" />
+      <geneRef id="1004000238" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000024_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0419462" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000079" />
+      <geneRef id="1003000370" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000025_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0430491" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1003000012" />
+      <geneRef id="1004000184" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000026_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0429204" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <paralogGroup>
+        <geneRef id="1000000193" />
+        <geneRef id="1000000065" />
+      </paralogGroup>
+      <geneRef id="1001000267" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000027_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0671299" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1001000237" />
+      <paralogGroup>
+        <geneRef id="1003000395" />
+        <geneRef id="1003000123" />
+      </paralogGroup>
+    </orthologGroup>
+    <orthologGroup id="HOG:0000028_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0671230" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000028_2" taxonId="2">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomyceta" />
+        <geneRef id="1000000203" />
+        <orthologGroup id="HOG:0000028_3" taxonId="3">
+          <score id="CompletenessScore" value="1.0" />
+          <property name="TaxRange" value="Saccharomycetales" />
+          <geneRef id="1001000188" />
+          <geneRef id="1004000031" />
+        </orthologGroup>
+      </orthologGroup>
+      <geneRef id="1002000084" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000029_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0682688" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000029_2" taxonId="2">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomyceta" />
+        <geneRef id="1000000122" />
+        <geneRef id="1001000221" />
+      </orthologGroup>
+      <geneRef id="1002000060" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000030_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0435670" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1003000393" />
+      <geneRef id="1004000166" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000031_6" taxonId="6">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0680260" />
+      <property name="TaxRange" value="Leotiomyceta" />
+      <geneRef id="1000000175" />
+      <geneRef id="1003000041" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000032_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0680014" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000032_2" taxonId="2">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomyceta" />
+        <geneRef id="1001000056" />
+        <geneRef id="1003000315" />
+      </orthologGroup>
+      <geneRef id="1002000262" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000033_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0356167" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000107" />
+      <geneRef id="1004000193" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000034_3" taxonId="3">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679360" />
+      <property name="TaxRange" value="Saccharomycetales" />
+      <geneRef id="1001000077" />
+      <geneRef id="1004000081" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000035_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679400" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1003000221" />
+      <geneRef id="1004000006" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000036_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0687673" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <orthologGroup id="HOG:0000036_6" taxonId="6">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Leotiomyceta" />
+        <geneRef id="1000000082" />
+        <geneRef id="1003000051" />
+      </orthologGroup>
+      <geneRef id="1004000213" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000037_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679355" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1000000146" />
+      <geneRef id="1002000110" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000038_2" taxonId="2">
+      <score id="CompletenessScore" value="0.6667" />
+      <property name="OMAmerRootHOG" value="HOG:D0900523" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1004000179" />
+      <geneRef id="1003000404" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000039_2" taxonId="2">
+      <score id="CompletenessScore" value="0.6667" />
+      <property name="OMAmerRootHOG" value="HOG:D0900523" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1001000082" />
+      <geneRef id="1003000161" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000040_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0671123" />
+      <property name="TaxRange" value="Ascomycota" />
+      <paralogGroup>
+        <geneRef id="1000000110" />
+        <geneRef id="1000000269" />
+      </paralogGroup>
+      <geneRef id="1002000321" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000041_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0434701" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1003000142" />
+      <geneRef id="1004000299" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000042_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0900113" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000021" />
+      <geneRef id="1004000114" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000043_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0417197" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000196" />
+      <geneRef id="1004000060" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000044_6" taxonId="6">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0421051" />
+      <property name="TaxRange" value="Leotiomyceta" />
+      <geneRef id="1000000045" />
+      <geneRef id="1003000039" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000045_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0390382" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000045_2" taxonId="2">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomyceta" />
+        <geneRef id="1000000039" />
+        <geneRef id="1001000022" />
+      </orthologGroup>
+      <geneRef id="1002000160" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000046_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679589" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000046_2" taxonId="2">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomyceta" />
+        <geneRef id="1000000130" />
+        <geneRef id="1001000084" />
+      </orthologGroup>
+      <geneRef id="1002000118" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000047_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0900000" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000047_3" taxonId="3">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomycetales" />
+        <geneRef id="1001000088" />
+        <geneRef id="1004000125" />
+      </orthologGroup>
+      <geneRef id="1002000246" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000048_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0418058" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000161" />
+      <geneRef id="1004000044" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000049_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0686800" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1001000072" />
+      <geneRef id="1003000331" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000050_3" taxonId="3">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0900094" />
+      <property name="TaxRange" value="Saccharomycetales" />
+      <geneRef id="1001000210" />
+      <geneRef id="1004000170" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000051_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0909620" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000284" />
+      <geneRef id="1004000040" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000052_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0704178" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000021" />
+      <geneRef id="1003000367" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000053_3" taxonId="3">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0680091" />
+      <property name="TaxRange" value="Saccharomycetales" />
+      <geneRef id="1001000257" />
+      <geneRef id="1004000188" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000054_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0900014" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1000000238" />
+      <geneRef id="1002000015" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000055_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679410" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000055_2" taxonId="2">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomyceta" />
+        <geneRef id="1000000184" />
+        <geneRef id="1001000239" />
+      </orthologGroup>
+      <geneRef id="1002000158" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000056_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0436249" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000223" />
+      <geneRef id="1004000228" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000057_6" taxonId="6">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0393480" />
+      <property name="TaxRange" value="Leotiomyceta" />
+      <geneRef id="1000000213" />
+      <geneRef id="1003000152" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000058_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0683395" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1001000174" />
+      <geneRef id="1003000140" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000059_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0671136" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000325" />
+      <orthologGroup id="HOG:0000059_3" taxonId="3">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomycetales" />
+        <geneRef id="1001000124" />
+        <geneRef id="1004000124" />
+      </orthologGroup>
+    </orthologGroup>
+    <orthologGroup id="HOG:0000060_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679395" />
+      <property name="TaxRange" value="Ascomycota" />
+      <orthologGroup id="HOG:0000060_2" taxonId="2">
+        <score id="CompletenessScore" value="1.0" />
+        <property name="TaxRange" value="Saccharomyceta" />
+        <orthologGroup id="HOG:0000060_6" taxonId="6">
+          <score id="CompletenessScore" value="1.0" />
+          <property name="TaxRange" value="Leotiomyceta" />
+          <geneRef id="1000000048" />
+          <geneRef id="1003000411" />
+        </orthologGroup>
+        <geneRef id="1001000232" />
+      </orthologGroup>
+      <geneRef id="1002000245" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000061_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0680514" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000030" />
+      <geneRef id="1004000013" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000062_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0434602" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000320" />
+      <geneRef id="1001000063" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000063_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0671170" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1001000118" />
+      <geneRef id="1002000154" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000064_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0682514" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000141" />
+      <geneRef id="1001000002" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000065_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0671285" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000052" />
+      <geneRef id="1003000099" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000066_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0900007" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000188" />
+      <geneRef id="1001000036" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000067_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0355697" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000049" />
+      <geneRef id="1004000074" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000068_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0906985" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1000000006" />
+      <geneRef id="1002000093" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000069_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0429675" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1003000157" />
+      <geneRef id="1004000150" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000070_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0680242" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000178" />
+      <geneRef id="1001000018" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000071_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0701365" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000170" />
+      <geneRef id="1004000234" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000072_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679633" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1003000235" />
+      <geneRef id="1004000306" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000073_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0899966" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000130" />
+      <geneRef id="1004000062" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000074_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0900134" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000184" />
+      <geneRef id="1004000293" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000075_3" taxonId="3">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679517" />
+      <property name="TaxRange" value="Saccharomycetales" />
+      <geneRef id="1001000050" />
+      <geneRef id="1004000131" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000076_6" taxonId="6">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0680554" />
+      <property name="TaxRange" value="Leotiomyceta" />
+      <geneRef id="1000000105" />
+      <geneRef id="1003000245" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000077_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0680470" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000275" />
+      <geneRef id="1001000213" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000078_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0905889" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000291" />
+      <geneRef id="1003000412" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000079_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0900668" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000240" />
+      <geneRef id="1001000230" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000080_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679595" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1000000077" />
+      <geneRef id="1002000051" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000081_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679373" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1000000054" />
+      <geneRef id="1002000188" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000082_3" taxonId="3">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0680596" />
+      <property name="TaxRange" value="Saccharomycetales" />
+      <geneRef id="1001000035" />
+      <geneRef id="1004000122" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000083_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0902386" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000241" />
+      <geneRef id="1004000263" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000084_3" taxonId="3">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0900801" />
+      <property name="TaxRange" value="Saccharomycetales" />
+      <geneRef id="1001000289" />
+      <geneRef id="1004000209" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000085_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0900277" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000106" />
+      <geneRef id="1001000003" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000086_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0428706" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000292" />
+      <geneRef id="1004000012" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000087_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0426870" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1000000261" />
+      <geneRef id="1002000139" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000088_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0417216" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000210" />
+      <geneRef id="1004000187" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000089_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0704152" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1001000143" />
+      <geneRef id="1003000319" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000090_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0900369" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000036" />
+      <geneRef id="1004000222" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000091_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0682518" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1000000044" />
+      <geneRef id="1001000017" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000092_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679486" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1003000132" />
+      <geneRef id="1004000264" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000093_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679691" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1000000098" />
+      <geneRef id="1002000178" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000094_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0682257" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1003000311" />
+      <geneRef id="1004000269" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000095_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679442" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1001000306" />
+      <geneRef id="1002000128" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000096_2" taxonId="2">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0429155" />
+      <property name="TaxRange" value="Saccharomyceta" />
+      <geneRef id="1001000051" />
+      <geneRef id="1003000186" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000097_6" taxonId="6">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0680289" />
+      <property name="TaxRange" value="Leotiomyceta" />
+      <geneRef id="1000000100" />
+      <geneRef id="1003000429" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000098_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0682988" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1001000268" />
+      <geneRef id="1002000136" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000099_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0683391" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000096" />
+      <geneRef id="1004000233" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000100_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679352" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1000000298" />
+      <geneRef id="1002000014" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000101_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0682517" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000195" />
+      <geneRef id="1004000175" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000102_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679330" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1002000238" />
+      <geneRef id="1003000172" />
+    </orthologGroup>
+    <orthologGroup id="HOG:0000103_1" taxonId="1">
+      <score id="CompletenessScore" value="1.0" />
+      <property name="OMAmerRootHOG" value="HOG:D0679350" />
+      <property name="TaxRange" value="Ascomycota" />
+      <geneRef id="1001000099" />
+      <geneRef id="1002000077" />
+    </orthologGroup>
+  </groups>
+</orthoXML>
